@@ -1,0 +1,36 @@
+default: &default
+  base_url: 'https://www.urhouse.com.tw/en/rentals/ajax'
+  num_of_result: 6
+  filter:
+    type: 'residential'
+    city: 'Taipei City'
+    #  Taipei City
+    # "Zhongshan Dist.","Zhongzheng Dist.","Beitou Dist.","Datong Dist.","Wanhua Dist.","Neihu Dist.","Da’an Dist.","Songshan Dist.","Wenshan Dist.","Nangang Dist.","Shilin Dist.","Xinyi Dist."
+    
+    # New Taipei City
+    # "Banqiao Dist.","Tamsui Dist.","Xinzhuang Dist.","Zhonghe Dist.","Tucheng Dist.","Sanchong Dist.","Xizhi Dist.","Yonghe Dist.","Xindian Dist.","Shulin Dist."
+    dist: ["Zhongshan Dist.","Zhongzheng Dist.","Beitou Dist.","Datong Dist.","Wanhua Dist.","Neihu Dist.","Da’an Dist.","Songshan Dist.","Wenshan Dist.","Nangang Dist.","Shilin Dist.","Xinyi Dist."]
+    rent:
+      min: '30000'
+      max: '100000'
+    residential:
+      total_room:
+        min: ""
+        max: ""
+  sort:
+    ordering: 'price'
+    direction: 'ASC'
+    mode: 'list'
+    page: 1
+
+development:
+  <<: *default
+
+test:
+  <<: *default
+
+staging:
+  <<: *default
+
+production:
+  <<: *default
