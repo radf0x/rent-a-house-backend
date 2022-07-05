@@ -17,6 +17,9 @@ module MarketplaceRails
     # in config/environments, which are processed later.
     #
     # config.time_zone = "Central Time (US & Canada)"
-    # config.eager_load_paths << Rails.root.join("extras")
+    config.eager_load_paths << Rails.root.join("lib")
+
+    # Switch from schema.rb to structure.sql
+    config.active_record.schema_format = :sql
   end
 end
