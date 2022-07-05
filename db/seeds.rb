@@ -6,5 +6,8 @@
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
 if Doorkeeper::Application.count.zero?
-  Doorkeeper::Application.create!(name: "Web", redirect_uri: "", scopes: "")
+  Doorkeeper::Application.create!(name: "Rentals", redirect_uri: "", scopes: "")
 end
+
+User.first_or_create(email: 'adam@eden.com', password: 'password', password_confirmation: 'password', role: User.roles[:admin])
+User.first_or_create(email: 'eve@eden.com', password: 'password', password_confirmation: 'password', role: User.roles[:user])
