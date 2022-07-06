@@ -23,7 +23,11 @@ class Api::RentalsController < ApiController
   end
 
   def create
-    # TODO
+    property = Property.new(create_params)
+    return render json: { error: property.error }, status: :unprocessible_entity unless property.save
+
+    # Use id to query for detail info instead of returning the detailed view
+    render json: { id: property.id }, status: 201
   end
 
   def update
@@ -35,6 +39,10 @@ class Api::RentalsController < ApiController
   end
 
   private
+
+  def create_params
+    @create_params ||= params.permit(:image, :title, :price, :road, :rooms, :city, :district, :mrt_line)
+  end
 
   def filter_params
     @filter_params ||= params.permit(:city, :rooms, :mrt_line, :min_rent, :max_rent, :page, districts: [])
