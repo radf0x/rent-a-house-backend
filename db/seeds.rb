@@ -9,5 +9,5 @@ if Doorkeeper::Application.count.zero?
   Doorkeeper::Application.create!(name: "Rentals", redirect_uri: "", scopes: "")
 end
 
-User.first_or_create(email: 'adam@eden.com', password: 'password', password_confirmation: 'password', role: User.roles[:admin])
-User.first_or_create(email: 'eve@eden.com', password: 'password', password_confirmation: 'password', role: User.roles[:user])
+User.create!(name: 'adam', email: 'adam@eden.com', password: 'password', password_confirmation: 'password', role: User.roles[:admin])
+User.create!(name: 'eve', email: 'eve@eden.com', password: 'password', password_confirmation: 'password', role: User.roles[:user])

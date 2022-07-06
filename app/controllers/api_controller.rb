@@ -16,4 +16,10 @@ class ApiController < ActionController::Base
   def current_user
     @current_user ||= User.find_by(id: doorkeeper_token[:resource_owner_id])
   end
+
+  def admin_only
+    return head :forbidden unless current_user.admin?
+
+    true
+  end
 end

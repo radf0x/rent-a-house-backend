@@ -3,6 +3,12 @@ namespace :api do
     post '/', to: 'users#create'
     get 'info', to: 'users#show' 
   end
+
+  get 'rentals', to: 'rentals#index'
+  get 'rentals/:id', to: 'rentals#show'
+  post 'rentals', to: 'rentals#create'
+  patch 'rentals/:id', to: 'rentals#update'
+  delete 'rentals/:id', to: 'rentals#delete'
 end
 
 scope :api do
