@@ -26,6 +26,38 @@ CREATE TABLE public.ar_internal_metadata (
 
 
 --
+-- Name: likes; Type: TABLE; Schema: public; Owner: -
+--
+
+CREATE TABLE public.likes (
+    id bigint NOT NULL,
+    user_id bigint NOT NULL,
+    property_id bigint NOT NULL,
+    created_at timestamp(6) without time zone NOT NULL,
+    updated_at timestamp(6) without time zone NOT NULL
+);
+
+
+--
+-- Name: likes_id_seq; Type: SEQUENCE; Schema: public; Owner: -
+--
+
+CREATE SEQUENCE public.likes_id_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+
+--
+-- Name: likes_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: -
+--
+
+ALTER SEQUENCE public.likes_id_seq OWNED BY public.likes.id;
+
+
+--
 -- Name: oauth_access_tokens; Type: TABLE; Schema: public; Owner: -
 --
 
@@ -183,6 +215,13 @@ ALTER SEQUENCE public.users_id_seq OWNED BY public.users.id;
 
 
 --
+-- Name: likes id; Type: DEFAULT; Schema: public; Owner: -
+--
+
+ALTER TABLE ONLY public.likes ALTER COLUMN id SET DEFAULT nextval('public.likes_id_seq'::regclass);
+
+
+--
 -- Name: oauth_access_tokens id; Type: DEFAULT; Schema: public; Owner: -
 --
 
@@ -216,6 +255,14 @@ ALTER TABLE ONLY public.users ALTER COLUMN id SET DEFAULT nextval('public.users_
 
 ALTER TABLE ONLY public.ar_internal_metadata
     ADD CONSTRAINT ar_internal_metadata_pkey PRIMARY KEY (key);
+
+
+--
+-- Name: likes likes_pkey; Type: CONSTRAINT; Schema: public; Owner: -
+--
+
+ALTER TABLE ONLY public.likes
+    ADD CONSTRAINT likes_pkey PRIMARY KEY (id);
 
 
 --
@@ -256,6 +303,20 @@ ALTER TABLE ONLY public.schema_migrations
 
 ALTER TABLE ONLY public.users
     ADD CONSTRAINT users_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: index_likes_on_property_id; Type: INDEX; Schema: public; Owner: -
+--
+
+CREATE INDEX index_likes_on_property_id ON public.likes USING btree (property_id);
+
+
+--
+-- Name: index_likes_on_user_id; Type: INDEX; Schema: public; Owner: -
+--
+
+CREATE INDEX index_likes_on_user_id ON public.likes USING btree (user_id);
 
 
 --
@@ -315,6 +376,22 @@ CREATE UNIQUE INDEX index_users_on_reset_password_token ON public.users USING bt
 
 
 --
+-- Name: likes fk_rails_1e09b5dabf; Type: FK CONSTRAINT; Schema: public; Owner: -
+--
+
+ALTER TABLE ONLY public.likes
+    ADD CONSTRAINT fk_rails_1e09b5dabf FOREIGN KEY (user_id) REFERENCES public.users(id);
+
+
+--
+-- Name: likes fk_rails_6066b1f7c5; Type: FK CONSTRAINT; Schema: public; Owner: -
+--
+
+ALTER TABLE ONLY public.likes
+    ADD CONSTRAINT fk_rails_6066b1f7c5 FOREIGN KEY (property_id) REFERENCES public.properties(id);
+
+
+--
 -- Name: oauth_access_tokens fk_rails_732cb83ab7; Type: FK CONSTRAINT; Schema: public; Owner: -
 --
 
@@ -333,6 +410,7 @@ INSERT INTO "schema_migrations" (version) VALUES
 ('20220705085524'),
 ('20220705090039'),
 ('20220705092503'),
-('20220705094859');
+('20220705094859'),
+('20220706115338');
 
 

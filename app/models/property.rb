@@ -3,6 +3,9 @@
 class Property < ApplicationRecord
   paginates_per 6
 
+  has_many :likes, dependent: :destroy
+  has_many :users, through: :likes
+
   scope :by_city, ->(city) { where(city: city) unless city.blank? }
   scope :by_districts, ->(districts) { where(district: districts) unless districts.empty? }
   scope :by_rooms, ->(rooms) { where('rooms <= ?', rooms) unless rooms == 0 }

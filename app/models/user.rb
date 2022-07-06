@@ -4,6 +4,9 @@ class User < ApplicationRecord
   devise :database_authenticatable, :registerable,
          :recoverable, :rememberable, :validatable
 
+  has_many :likes, dependent: :destroy
+  has_many :properties, class_name: 'Property', through: :likes
+
   enum role: %i[user admin]
 
   validates :email, format: URI::MailTo::EMAIL_REGEXP
