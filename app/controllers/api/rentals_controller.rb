@@ -31,7 +31,10 @@ class Api::RentalsController < ApiController
   end
 
   def update
-    # TODO
+    property = Property.find_by!(id: params[:id])
+    return render json: { error: property.errors } unless property.update(create_params)
+
+    render json: { id: property.id }, status: 200
   end
 
   def delete

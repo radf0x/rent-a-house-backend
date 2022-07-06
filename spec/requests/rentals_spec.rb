@@ -41,6 +41,43 @@ RSpec.describe "Rentals", type: :request do
           )
         end
       end
+
+      context 'update a rental property' do
+        let!(:property) { FactoryBot.create(:property, :taipei_city) }
+        
+        context 'rental property updated' do
+          let(:params) do
+            {
+              title: 'updated',
+              price: 20000,
+              rooms: 100,
+              city: '新北市',
+              district: '三重區',
+              mrt_line: '北投'
+            }
+          end
+
+          after do
+            expect(response).to have_http_status(:ok)
+          end
+
+          it 'respond with property id' do
+            patch "/api/rentals/#{property.id}", params: params.to_json, headers: with_user_auth_headers(auth_token)
+            expect(response.parsed_body).to include_json(
+              id: property.id
+            )
+          end
+
+          it 'property value updated' do
+            attributes = %i[title price rooms city district mrt_line]
+            before_update = property.slice(attributes).values
+            patch "/api/rentals/#{property.id}", params: params.to_json, headers: with_user_auth_headers(auth_token)
+            after_update = property.reload.slice(attributes).values
+
+            expect(after_update).not_to match_array(before_update)
+          end
+        end
+      end
     end
   end
 
