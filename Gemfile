@@ -71,3 +71,5 @@ gem "rack-cors", "~> 1.1"
 gem "dotenv-rails", "~> 2.7"
 
 gem "doorkeeper", "~> 5.5"
+
+gem "kaminari", "~> 1.2"
