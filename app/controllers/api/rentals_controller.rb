@@ -38,7 +38,9 @@ class Api::RentalsController < ApiController
   end
 
   def delete
-    # TODO
+    Property.find_by!(id: params[:id]).delete
+
+    head :no_content
   end
 
   private

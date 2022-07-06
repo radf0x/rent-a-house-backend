@@ -6,42 +6,32 @@ RSpec.describe "Rentals", type: :request do
     let!(:user) { FactoryBot.create(:user, :with_admin) }
     let!(:auth_token) { FactoryBot.create(:doorkeeper_access_token, application: application, resource_owner_id: user.id).token }
 
-    describe 'POST /api/rentals' do
-      context 'created a rental property' do
-        let(:params) do
-          {
-            image: FFaker::Internet.http_url,
-            title: FFaker::Name.name,
-            price: BigDecimal(30000),
-            road: '',
-            rooms: rand(1..10),
-            city: '台北市',
-            district: %w[中正區 中山區 北投區 萬華區 大同區 內湖區 松山區 大安區 信義區 士林區 南港區 文山區].sample,
-            mrt_line: %w[台北車站 市政府 內湖].sample
-          }
+    describe 'DELETE /api/rentals' do
+      context 'delete a rental property' do
+        let!(:property) { FactoryBot.create(:property, :taipei_city) }
+
+        context 'rental property deleted' do
+          after do
+            expect(response).to have_http_status(:no_content)
+          end
+
+          it 'Property is deleted from database' do
+            expect(Property.count).to eq 1
+            delete "/api/rentals/#{property.id}", headers: with_user_auth_headers(auth_token)
+            expect(Property.count).to eq 0
+          end
         end
 
-        before do
-          expect(Property.count).to eq 0
-        end
-
-        after do
-          expect(response).to have_http_status(:created)
-        end
-
-        it 'created a property record' do
-          post '/api/rentals', params: params.to_json, headers: with_user_auth_headers(auth_token)
-          expect(Property.count).to eq 1
-        end
-
-        it 'respond with http 201 and property id' do
-          post '/api/rentals', params: params.to_json, headers: with_user_auth_headers(auth_token)
-          expect(response.parsed_body).to include_json(
-            id: Property.first.id
-          )
+        context 'rental property not found' do
+          it 'respond with 404 not found' do
+            delete "/api/rentals/-1", headers: with_user_auth_headers(auth_token)
+            expect(response).to have_http_status(:not_found)
+          end
         end
       end
+    end
 
+    describe 'PATCH /api/rentals' do
       context 'update a rental property' do
         let!(:property) { FactoryBot.create(:property, :taipei_city) }
         
@@ -76,6 +66,50 @@ RSpec.describe "Rentals", type: :request do
 
             expect(after_update).not_to match_array(before_update)
           end
+        end
+
+        context 'rental property not found' do
+          it 'respond with 404 not found' do
+            patch "/api/rentals/-1", params: {title: 'updated'}.to_json, headers: with_user_auth_headers(auth_token)
+            expect(response).to have_http_status(:not_found)
+          end
+        end
+      end
+    end
+
+    describe 'POST /api/rentals' do
+      context 'created a rental property' do
+        let(:params) do
+          {
+            image: FFaker::Internet.http_url,
+            title: FFaker::Name.name,
+            price: BigDecimal(30000),
+            road: '',
+            rooms: rand(1..10),
+            city: '台北市',
+            district: %w[中正區 中山區 北投區 萬華區 大同區 內湖區 松山區 大安區 信義區 士林區 南港區 文山區].sample,
+            mrt_line: %w[台北車站 市政府 內湖].sample
+          }
+        end
+
+        before do
+          expect(Property.count).to eq 0
+        end
+
+        after do
+          expect(response).to have_http_status(:created)
+        end
+
+        it 'created a property record' do
+          post '/api/rentals', params: params.to_json, headers: with_user_auth_headers(auth_token)
+          expect(Property.count).to eq 1
+        end
+
+        it 'respond with http 201 and property id' do
+          post '/api/rentals', params: params.to_json, headers: with_user_auth_headers(auth_token)
+          expect(response.parsed_body).to include_json(
+            id: Property.first.id
+          )
         end
       end
     end
@@ -172,13 +206,46 @@ RSpec.describe "Rentals", type: :request do
   end
 
   describe 'when not authorized' do
+    shared_examples_for 'DELETE /api/rentals' do
+      it 'respond with http 401' do
+        delete endpoint
+        expect(response).to have_http_status(:unauthorized)
+      end
+    end
+
+    shared_examples_for 'PATCH /api/rentals' do
+      it 'respond with http 401' do
+        patch endpoint
+        expect(response).to have_http_status(:unauthorized)
+      end
+    end
+
+    shared_examples_for 'POST /api/rentals' do
+      it 'respond with http 401' do
+        post endpoint
+        expect(response).to have_http_status(:unauthorized)
+      end
+    end
+
     shared_examples_for 'GET /api/rentals' do
       it 'respond with http 401' do
         get endpoint
         expect(response).to have_http_status(:unauthorized)
       end
     end
-    
+
+    it_behaves_like 'DELETE /api/rentals' do
+      let(:endpoint) { '/api/rentals/1' }
+    end
+
+    it_behaves_like 'PATCH /api/rentals' do
+      let(:endpoint) { '/api/rentals/1' }
+    end
+
+    it_behaves_like 'POST /api/rentals' do
+      let(:endpoint) { '/api/rentals' }
+    end
+
     it_behaves_like 'GET /api/rentals' do
       let(:endpoint) { '/api/rentals' }
     end
