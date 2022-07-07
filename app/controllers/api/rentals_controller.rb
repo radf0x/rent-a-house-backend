@@ -6,6 +6,10 @@ class Api::RentalsController < ApiController
   before_action :admin_only, only: %i[create update delete]
   rescue_from ActiveRecord::RecordNotFound, with: :render_record_not_found_error
 
+  def favourites
+    render json: { properties: current_user.properties }, status: 200
+  end
+
   def unlike
     property = Property.find_by!(id: params[:id])
     current_user.properties.delete(property)

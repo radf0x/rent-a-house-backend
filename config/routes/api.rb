@@ -4,9 +4,11 @@ namespace :api do
     get 'info', to: 'users#show' 
   end
 
+  get 'rentals/favourites', to: 'rentals#favourites'
   get 'rentals', to: 'rentals#index'
-  get 'rentals/:id', to: 'rentals#show'
   post 'rentals', to: 'rentals#create'
+
+  get 'rentals/:id', to: 'rentals#show'
   patch 'rentals/:id', to: 'rentals#update'
   delete 'rentals/:id', to: 'rentals#delete'
   post 'rentals/:id/like', to: 'rentals#like'

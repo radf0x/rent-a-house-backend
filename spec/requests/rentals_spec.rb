@@ -6,62 +6,6 @@ RSpec.describe "Rentals", type: :request do
     let!(:user) { FactoryBot.create(:user, :with_admin) }
     let!(:auth_token) { FactoryBot.create(:doorkeeper_access_token, application: application, resource_owner_id: user.id).token }
 
-    describe 'DELETE /api/rentals/:id/like' do
-      context 'unlike a rental property' do
-        let!(:property) { FactoryBot.create(:property, :taipei_city) }
-
-        before do
-          user.properties << property
-          expect(user.properties.count).to eq(1)
-        end
-
-        context 'when property is found' do
-
-          it 'respond with Http 204' do
-            delete "/api/rentals/#{property.id}/like", headers: with_user_auth_headers(auth_token)
-            expect(response).to have_http_status(:no_content)
-          end
-
-          it 'property is deleted from the user' do
-            delete "/api/rentals/#{property.id}/like", headers: with_user_auth_headers(auth_token)
-            expect(user.properties.count).to eq(0)
-          end
-        end
-
-        context 'when property is not found' do
-          it 'respond with 404 not found' do
-            delete "/api/rentals/-1/like", headers: with_user_auth_headers(auth_token)
-            expect(response).to have_http_status(:not_found)
-          end
-        end
-      end
-    end
-
-    describe 'POST /api/rentals/:id/like' do
-      context 'like a rental property' do
-        let!(:property) { FactoryBot.create(:property, :taipei_city) }
-
-        before do
-          expect(user.properties.count).to eq(0)
-        end
-
-        context 'when property is found' do
-
-          it 'property is saved to the user' do
-            post "/api/rentals/#{property.id}/like", headers: with_user_auth_headers(auth_token)
-            expect(user.properties.first.id).to eq(property.id)
-          end
-        end
-
-        context 'when property is not found' do
-          it 'respond with 404 not found' do
-            post "/api/rentals/-1/like", headers: with_user_auth_headers(auth_token)
-            expect(response).to have_http_status(:not_found)
-          end
-        end
-      end
-    end
-
     describe 'DELETE /api/rentals' do
       context 'delete a rental property' do
         let!(:property) { FactoryBot.create(:property, :taipei_city) }
@@ -180,7 +124,84 @@ RSpec.describe "Rentals", type: :request do
       10.times { FactoryBot.create(:property, :taipei_city) }
       10.times { FactoryBot.create(:property, :new_taipei_city) }
     end
-  
+
+    describe 'GET /api/rentals/favourites' do
+      before do
+        10.times do
+          FactoryBot.create(:property, :taipei_city)
+        end
+      end
+
+      context 'when user has liked 5 properties' do
+        before do
+          Property.take(5).each do |p|
+            user.properties << p
+          end
+        end
+
+        it 'respond with list of 5 favourited properties' do
+          get '/api/rentals/favourites', headers: with_user_auth_headers(auth_token)
+          expect(response.parsed_body['properties'].count).to eq(5)
+        end
+      end
+    end
+
+    describe 'DELETE /api/rentals/:id/like' do
+      context 'unlike a rental property' do
+        let!(:property) { FactoryBot.create(:property, :taipei_city) }
+
+        before do
+          user.properties << property
+          expect(user.properties.count).to eq(1)
+        end
+
+        context 'when property is found' do
+
+          it 'respond with Http 204' do
+            delete "/api/rentals/#{property.id}/like", headers: with_user_auth_headers(auth_token)
+            expect(response).to have_http_status(:no_content)
+          end
+
+          it 'property is deleted from the user' do
+            delete "/api/rentals/#{property.id}/like", headers: with_user_auth_headers(auth_token)
+            expect(user.properties.count).to eq(0)
+          end
+        end
+
+        context 'when property is not found' do
+          it 'respond with 404 not found' do
+            delete "/api/rentals/-1/like", headers: with_user_auth_headers(auth_token)
+            expect(response).to have_http_status(:not_found)
+          end
+        end
+      end
+    end
+
+    describe 'POST /api/rentals/:id/like' do
+      context 'like a rental property' do
+        let!(:property) { FactoryBot.create(:property, :taipei_city) }
+
+        before do
+          expect(user.properties.count).to eq(0)
+        end
+
+        context 'when property is found' do
+
+          it 'property is saved to the user' do
+            post "/api/rentals/#{property.id}/like", headers: with_user_auth_headers(auth_token)
+            expect(user.properties.first.id).to eq(property.id)
+          end
+        end
+
+        context 'when property is not found' do
+          it 'respond with 404 not found' do
+            post "/api/rentals/-1/like", headers: with_user_auth_headers(auth_token)
+            expect(response).to have_http_status(:not_found)
+          end
+        end
+      end
+    end
+
     describe 'POST /api/rentals' do
       context 'user is not able to create new rental record' do
         it 'respond with 403' do
