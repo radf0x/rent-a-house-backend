@@ -10,6 +10,9 @@ default: &default
     rent:
       min: '30000'
       max: '100000'
+    doc_floor_size:
+      min: ''
+      max: ''
     residential:
       total_room:
         min: ""
