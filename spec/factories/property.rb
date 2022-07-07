@@ -7,6 +7,7 @@ FactoryBot.define do
     price { BigDecimal(rand(30000...100000)) }
     road { '' }
     rooms { rand(1..10) }
+    floor_size { (rand(20..200)*rand()).to_d }
     trait :taipei_city do
       city { '台北市' }
       district { %w[中正區 中山區 北投區 萬華區 大同區 內湖區 松山區 大安區 信義區 士林區 南港區 文山區].sample }

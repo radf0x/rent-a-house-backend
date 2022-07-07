@@ -145,7 +145,8 @@ CREATE TABLE public.properties (
     rooms integer NOT NULL,
     mrt_line character varying NOT NULL,
     created_at timestamp(6) without time zone NOT NULL,
-    updated_at timestamp(6) without time zone NOT NULL
+    updated_at timestamp(6) without time zone NOT NULL,
+    floor_size numeric DEFAULT 0.0 NOT NULL
 );
 
 
@@ -411,6 +412,7 @@ INSERT INTO "schema_migrations" (version) VALUES
 ('20220705090039'),
 ('20220705092503'),
 ('20220705094859'),
-('20220706115338');
+('20220706115338'),
+('20220707101906');
 
 
