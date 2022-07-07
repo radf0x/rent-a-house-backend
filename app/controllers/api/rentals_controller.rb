@@ -30,6 +30,7 @@ class Api::RentalsController < ApiController
       .by_rooms(filter_params[:rooms].to_i.abs)
       .by_rent(filter_params[:min_rent].to_i.abs, filter_params[:max_rent].to_i.abs)
       .by_mrt_line(filter_params[:mrt_line] || '')
+      .by_floor_size(filter_params[:min_floor_size].to_d.abs, filter_params[:max_floor_size].to_d.abs)
       .sort_price_asc
       .page(filter_params[:page].to_i.abs || 1)
       .per(6) # TODO: remove hardcoded value to configurable
@@ -66,11 +67,11 @@ class Api::RentalsController < ApiController
   private
 
   def create_params
-    @create_params ||= params.permit(:image, :title, :price, :road, :rooms, :city, :district, :mrt_line)
+    @create_params ||= params.permit(:image, :title, :price, :road, :rooms, :city, :district, :mrt_line, :floor_size)
   end
 
   def filter_params
-    @filter_params ||= params.permit(:city, :rooms, :mrt_line, :min_rent, :max_rent, :page, districts: [])
+    @filter_params ||= params.permit(:city, :rooms, :mrt_line, :min_rent, :max_rent, :page, :min_floor_size, :max_floor_size, districts: [])
   end
 
   def pagination_data_from(collection)

@@ -272,11 +272,11 @@ RSpec.describe "Rentals", type: :request do
   
       context 'with a composite filter' do
         let!(:districts) { %w[中正區 中山區] }
-        let!(:query_params) { { city: '台北市', districts: districts, mrt_line: '台北車站' , max_rent: 30000} }
+        let!(:query_params) { { city: '台北市', districts: districts, mrt_line: '台北車站' , max_rent: 30000, max_floor_size: 45.1234} }
   
         before do
           districts.each do |district|
-            FactoryBot.create(:property, :taipei_city, price: 30000.to_d, district: district, mrt_line: query_params[:mrt_line])
+            FactoryBot.create(:property, :taipei_city, price: 30000.to_d, district: district, mrt_line: query_params[:mrt_line], floor_size: query_params[:max_floor_size])
           end
         end
   
@@ -286,6 +286,7 @@ RSpec.describe "Rentals", type: :request do
             expect(property['city']).to eq query_params[:city]
             expect(property['mrt_line']).to eq query_params[:mrt_line]
             expect(property['price'].to_d).to be <= query_params[:max_rent]
+            expect(property['floor_size'].to_d).to be <= query_params[:max_floor_size]
             expect(query_params[:districts]).to include property['district']
           end
         end
