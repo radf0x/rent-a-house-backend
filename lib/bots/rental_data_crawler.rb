@@ -53,7 +53,7 @@ class Bots::RentalDataCrawler
   end
 
   def insert_to_db
-    local_file_path = Rails.root.join('tmp','csv',"rental_data.csv")
+    local_file_path = Rails.root.join('lib','bots',"rental_data.csv")
     raise LoadError.new("rentals_data.csv not found") unless File.exists?(local_file_path)
 
     puts "Inserting database records from #{local_file_path}"
@@ -66,7 +66,7 @@ class Bots::RentalDataCrawler
   private
 
   def to_csv(collection)
-    CSV.open(Rails.root.join('tmp','csv',"rental_data.csv"), "wb") do |csv|
+    CSV.open(Rails.root.join('lib','bots',"rental_data.csv"), "wb") do |csv|
       csv << csv_headings
 
       collection.each do |items|
