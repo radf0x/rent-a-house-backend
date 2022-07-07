@@ -24,7 +24,7 @@ class Bots::RentalDataCrawler
   end
 
   def csv_headings
-    @headings ||= %w(image title price city district road rooms mrt_line)
+    @headings ||= %w(image title price city district road rooms mrt_line floor_size)
   end
 
   def call(page=1)
@@ -43,8 +43,10 @@ class Bots::RentalDataCrawler
       .collect(&:first)
       .last
       .to_i 
-      .times do |i|
-        sort[:page] = i+1
+      .times do |page_num|
+        next if page_num.zero?
+
+        sort[:page] = page_num+1
         data = listings(sort)
         entries << data.dig('data','items')
       end
@@ -53,20 +55,19 @@ class Bots::RentalDataCrawler
   end
 
   def insert_to_db
-    local_file_path = Rails.root.join('lib','bots',"rental_data.csv")
-    raise LoadError.new("rentals_data.csv not found") unless File.exists?(local_file_path)
+    raise LoadError.new("rentals_data.csv not found") unless File.exists?(csv_file_path)
 
-    puts "Inserting database records from #{local_file_path}"
-    CSV.foreach(local_file_path, headers: true) do |row|
+    puts "Inserting database records from #{csv_file_path}" unless Rails.env.test? #silence log outputs for test env
+    CSV.foreach(csv_file_path, headers: true) do |row|
       Property.create!(row.to_hash)
     end
-    puts "#{Property.count} records added"
+    puts "#{Property.count} records added" unless Rails.env.test? #silence log outputs for test env
   end
 
   private
 
   def to_csv(collection)
-    CSV.open(Rails.root.join('lib','bots',"rental_data.csv"), "wb") do |csv|
+    CSV.open(csv_file_path, "wb") do |csv|
       csv << csv_headings
 
       collection.each do |items|
@@ -79,20 +80,27 @@ class Bots::RentalDataCrawler
             item['dist'],
             item['road'],
             item['total_room'],
-            item['closest_mrt']
+            item['closest_mrt'],
+            item['doc_floor_size']
           ]
         end
       end
     end
+
+    true
   end
 
   def listings(sort)
     req_url = "#{base_url}?filter=#{filter}&#{sort.to_query}"
-    puts "Fetching from #{req_url}"
+    puts "Fetching from #{req_url}" unless Rails.env.test? #silence log outputs for test env
     resp = HTTParty.get(req_url)
     # non 200
     raise StandardError.new("failed to fetch with url: #{url}") unless resp.ok?
 
     resp.parsed_response
+  end
+
+  def csv_file_path
+    @csv_file_path ||= Rails.root.join('lib','bots',"rental_data.csv")
   end
 end
