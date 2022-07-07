@@ -1,242 +1,223 @@
-image,title,price,city,district,road,rooms,mrt_line
-https://urhouse.s3.amazonaws.com/images/rentals/991675ef521cb2089cccd6a852f72cac.jpg?31363534323436373736,天母古道旁景色宜人,30000,台北市,士林區,中山北路七段,2,明德
-https://urhouse.s3.amazonaws.com/attachments/images/old/4151/1.jpg,中山國小捷運站全新裝潢美套房,32000,台北市,中山區,民權東路二段,1,中山國小
-https://urhouse.s3.amazonaws.com/attachments/images/old/14973/1.jpg,MRT台北車站、交通便利、高樓視,31000,台北市,中正區,市民大道一段,1,台北車站
-https://urhouse.s3.amazonaws.com/attachments/images/old/14061/1.jpg,MRT龍山寺.新穎社區、第一手承,30000,台北市,萬華區,西園路二段,1,龍山寺（艋舺商圈）
-https://urhouse.s3.amazonaws.com/images/rentals/a02220f2e07341451b6d20b9a83ed8ff.jpg?31363535373934313038,MRT北門・後車站南西大稻埕商圈,30000,台北市,大同區,華亭街,1,北門
-https://urhouse.s3.amazonaws.com/images/rentals/230412c7a68201e0be2f5d4fb9d442b4.jpg?31363532383338323637,MRT明德站/石牌商圈/國際學校,32000,台北市,北投區,西安街一段,1,明德
-https://urhouse.s3.amazonaws.com/attachments/images/old/13709/1.jpg,MRT中山國中、大收納、百萬裝潢、精巧空間，有浴缸【可線上參觀】,30000,台北市,松山區,復興北路,1,中山國中
-https://urhouse.s3.amazonaws.com/attachments/images/old/4151/1.jpg,中山國小捷運站全新裝潢美套房,32000,台北市,中山區,民權東路二段,1,中山國小
-https://urhouse.s3.amazonaws.com/attachments/images/old/14973/1.jpg,MRT台北車站、交通便利、高樓視,31000,台北市,中正區,市民大道一段,1,台北車站
-https://urhouse.s3.amazonaws.com/images/rentals/27324bfa32fc43f34ea23a2b279c4992.jpg?31363532333337303839,MRT民權西路、機能便利、新穎,30000,台北市,中山區,天祥路,0,民權西路
-https://urhouse.s3.amazonaws.com/images/rentals/19d9438c1c41a576fbf6738854a84a28.jpg?31363534353939303630,MRT象山信義高樓套房,30000,台北市,信義區,信義路五段,1,象山
-https://urhouse.s3.amazonaws.com/images/rentals/0847428640312d7e5f0804dcb8b2cd01.jpg?31363534313638333336,MRT中山國小/近花博/機能佳,30000,台北市,中山區,農安街,1,中山國小
-https://urhouse.s3.amazonaws.com/images/rentals/4b7bb0379e2a232c12329c9a212801a9.jpg?31363531363530393336,山景幽靜美寓*簡約裝潢,33000,台北市,北投區,新民路,2,""
-https://urhouse.s3.amazonaws.com/images/rentals/0ebcdb06cf4d039f0d08b356c26bc466.jpg?31363430373637363737,市政府 時尚裝潢,33500,台北市,信義區,永吉路,1,市政府
-https://urhouse.s3.amazonaws.com/images/rentals/9c9744d143d2abbe041317b7b76f8e85.jpg?31363534353933363330,MRT忠孝新生.高樓採光,32000,台北市,中山區,八德路二段,1,忠孝新生（台北科大）
-https://urhouse.s3.amazonaws.com/attachments/images/old/10271/1.jpg,MRT明德   複合式白色空間,33000,台北市,北投區,西安街一段,2,明德
-https://urhouse.s3.amazonaws.com/attachments/images/old/3908/1.jpg,MRT大橋頭.延三夜市.稀有邊間,33000,台北市,大同區,民權西路,1,大橋頭
-https://urhouse.s3.amazonaws.com/images/rentals/06dea2c13dd7f20a509f3d4d411c2591.jpg?31363534303038333531,MRT士林  LOFT空間小宅,33000,台北市,士林區,福壽街,2,士林
-https://urhouse.s3.amazonaws.com/images/rentals/80d92b3b368729c937e7a329f19a5eb7.jpg?31363532363935343136,MRT象山/可寵可短租瓦斯/2房,35000,台北市,信義區,信義路五段,2,象山
-https://urhouse.s3.amazonaws.com/images/rentals/4898db26f9e2d470f0d9931c4fc7b901.jpg?31363533303332373736,MRT南京三民.民生社區.高樓,35000,台北市,松山區,民生東路五段,1,南京三民
-https://urhouse.s3.amazonaws.com/images/rentals/f7ab113fb2bdb9d5674ef9ab826d7979.jpg?31363531363539303834,MRT石牌站/近天母商圈/榮總,34000,台北市,北投區,裕民一路,2,石牌（榮總）
-https://urhouse.s3.amazonaws.com/images/rentals/54f9dcaffeb95f402aa2ac051b02c24b.jpg?31363530393433393337,MRT松山，全新裝潢，高樓景觀好,35000,台北市,松山區,八德路四段,0,松山
-https://urhouse.s3.amazonaws.com/images/rentals/b20ab15a36e8643d52041a1cbce997e5.jpg?31363532303032323338,MRT中山  寧夏商圈一房  ,35000,台北市,大同區,寧夏路,1,中山
-https://urhouse.s3.amazonaws.com/images/rentals/1766fff4851ac9c11f3200477fb8cc76.jpg?31363535383032323139,MRT北車高樓浴缸陽台大套,35000,台北市,中正區,中華路一段,1,台北車站
-https://urhouse.s3.amazonaws.com/images/rentals/f85394ad7edb90639623e2af567b3963.jpg?31363532343230383934,中山國中MRT舒適3房速洽,35000,台北市,松山區,民權東路三段,3,中山國中
-https://urhouse.s3.amazonaws.com/images/rentals/d3481ae553dc4bb6b970b151fbc0ec59.jpg?31363537303135313733,松江南京 高樓層 景色佳,36000,台北市,中山區,南京東路二段,1,松江南京
-https://urhouse.s3.amazonaws.com/images/rentals/ca9eac0c76de0cab71d5b50951fe4c5f.jpg?31363536373534393032,MRT北車五鐵共構泡澡可短租大套,36000,台北市,大同區,市民大道一段,1,台北車站
-https://urhouse.s3.amazonaws.com/images/rentals/957fe82f1784483968a1af17af7dc0db.jpg?31363535373233303633,松江南京共構/可寵瓦斯/完整公設,35000,台北市,中山區,南京東路二段,1,松江南京
-https://urhouse.s3.amazonaws.com/images/rentals/82d0e1beec7c6f769b97b4420a384716.jpg?31363432363637343533,MRT西門. 鬧中取靜.高樓景觀,36000,台北市,萬華區,中華路一段,1,西門
-https://urhouse.s3.amazonaws.com/images/rentals/6d5768ba809b699ac0cdb94f96acc739.jpg?31363534383433373033,MRT西門/採光/機能佳,36000,台北市,萬華區,成都路,1,西門
-https://urhouse.s3.amazonaws.com/images/rentals/3beeab85046ca201d73bb9d129bcfc3f.jpg?31363431353639353738,MRT明德  温馨3房機能宅,38000,台北市,北投區,西安街一段,3,明德
-https://urhouse.s3.amazonaws.com/attachments/images/old/12134/1.jpg,MRT中山   寧夏商圈1+1 ,38000,台北市,大同區,寧夏路,1,中山
-https://urhouse.s3.amazonaws.com/images/rentals/03af2dab7923447ee070be156ac70bc7.jpg?31363436313034323437,MRT行天宮&中山國中，首次出租,38000,台北市,中山區,五常街,0,行天宮
-https://urhouse.s3.amazonaws.com/images/rentals/5f13c5636de33b882a9ed872a2985dff.jpg?31363535333439353233,萬華，裝潢新，家具家電可談,37000,台北市,萬華區,東園街,2,龍山寺（艋舺商圈）
-https://urhouse.s3.amazonaws.com/images/rentals/ebb859c7a465117f88b3cfd9d84be9c0.jpg?31363535383031323831,MRT奇岩站/近公園/含車位,38000,台北市,北投區,三合街一段,1,奇岩
-https://urhouse.s3.amazonaws.com/images/rentals/792d6bb3fdf2afce6a0911b0820d5ada.jpg?31363437333937373338,MRT松江南京，酒店公寓，適外商,37000,台北市,中山區,松江路,0,松江南京
-https://urhouse.s3.amazonaws.com/images/rentals/dee767f49e1cf1ddd63e3bbe57489542.jpg?31363533313335343133,MRT雙連站/近南西商圈/高樓層,40000,台北市,中山區,中山北路二段,3,雙連（馬偕紀念醫院）
-https://urhouse.s3.amazonaws.com/attachments/images/old/11982/1.jpg,MRT東湖，時尚精緻兩房，可線上,39000,台北市,內湖區,康寧路三段,2,東湖
-https://urhouse.s3.amazonaws.com/images/rentals/a0e9cab17a035c5ad4c817c25188e195.jpg?31363533373237363432,內湖/三房/空屋,39000,台北市,內湖區,行善路,3,""
-https://urhouse.s3.amazonaws.com/attachments/images/old/7251/1.jpg,MRT東門站   永康商圈   ,39000,台北市,大安區,信義路二段,1,東門
-https://urhouse.s3.amazonaws.com/attachments/images/old/11576/1.jpg,近永春站*外商喜愛*採光極好,39000,台北市,信義區,忠孝東路五段,1,永春
-https://urhouse.s3.amazonaws.com/images/rentals/7aaba5f3511f56128e7130c2973e0503.jpg?31363536343934333933,MRT港墘 超大空間,40000,台北市,內湖區,內湖路一段,1,內湖
-https://urhouse.s3.amazonaws.com/images/rentals/33681279c167c7fcd2997ed72cfb4c4a.jpg?31363532343037343430,MRT松江南京，酒店公寓，適外商,41000,台北市,中山區,松江路,0,松江南京
-https://urhouse.s3.amazonaws.com/images/rentals/5246bf5f765e7132db4eaf3286f24782.jpg?31363534353735323033,行天宮MRT.高檔裝潢舒適大空間,42000,台北市,中山區,建國北路三段,1,行天宮
-https://urhouse.s3.amazonaws.com/attachments/images/old/13020/1.jpg,東門/漂亮裝潢套房/短租可,40000,台北市,中正區,信義路二段,1,東門
-https://urhouse.s3.amazonaws.com/images/rentals/cba96c8d8abec0fd4735e539969d46aa.jpg?31363432313330343135,MRT雙連站.全新建案美裝潢,42000,台北市,大同區,雙連街,0,雙連（馬偕紀念醫院）
-https://urhouse.s3.amazonaws.com/images/rentals/a4ad68f61b704a2073c3952bc5ceb1c8.jpg?31363531303331303232,MRT忠孝敦化/市中心/機能佳,41000,台北市,大安區,敦化南路一段,1,忠孝敦化
-https://urhouse.s3.amazonaws.com/images/rentals/76b9419064e61d1a0a82607b0cbd7fc4.jpg?31363533383834383138,MRT龍山寺/近河濱公園/採光佳,42000,台北市,萬華區,環河南路二段,2,龍山寺（艋舺商圈）
-https://urhouse.s3.amazonaws.com/images/rentals/cac8ec2e0e8d39ca1612df964d942c01.jpg?31363536393033393838,西門MRT/生活機能佳/交通便利,43000,台北市,萬華區,西寧南路,3,西門
-https://urhouse.s3.amazonaws.com/attachments/images/old/4527/1.jpg,MRT世貿101景觀小豪宅,43000,台北市,信義區,松平路,1,台北101/世貿
-https://urhouse.s3.amazonaws.com/attachments/images/old/4865/1.jpg,MRT南京復興面公園高樓採光2房,45000,台北市,中山區,龍江路,2,南京復興
-https://urhouse.s3.amazonaws.com/attachments/images/old/15461/1.jpg,MRT奇岩捷運  便利空間  ,43000,台北市,北投區,中央南路二段,3,奇岩
-https://urhouse.s3.amazonaws.com/attachments/images/old/15052/1.jpg,西門站.高樓採光全新釋出,44000,台北市,中正區,延平南路,1,西門
-https://urhouse.s3.amazonaws.com/images/rentals/45efb53717e251fff467ff439bbce62e.jpg?31363533363931343733,近捷運機能好漂亮裝潢,44800,台北市,中山區,民權東路一段,1,中山國小
-https://urhouse.s3.amazonaws.com/attachments/images/old/3647/1.jpg,近東門.優質環境精美2+1房.速,45000,台北市,中正區,杭州南路一段,2,東門
-https://urhouse.s3.amazonaws.com/images/rentals/470340e5b081f2e3653ec93a36ba5784.jpg?31363436383932373837,MRT六張犁。新穎漂亮。優質溫馨,45000,台北市,信義區,和平東路三段,2,六張犁
-https://urhouse.s3.amazonaws.com/images/rentals/82d06664f103890e512a109d0b5d1011.jpg?31363533303439333734,MRT芝山/TAS.TES 天母,45000,台北市,士林區,德行東路,3,""
-https://urhouse.s3.amazonaws.com/images/rentals/00d8e45251394d51c6def3c960da9a6e.jpg?31363535373136363736,MRT明德站/近國際學校/寬敞,45000,台北市,北投區,建民路,3,明德
-https://urhouse.s3.amazonaws.com/images/rentals/e36c72761b575374e7d7e63a0333d93f.jpg?31363536313635363136,MRT忠孝復興明星學區可報稅可貓,45000,台北市,大安區,復興南路一段,3,忠孝復興
-https://urhouse.s3.amazonaws.com/attachments/images/old/15391/1.jpg,MRT景美.綠意盎然、.,45000,台北市,文山區,辛亥路六段,3,景美
-https://urhouse.s3.amazonaws.com/images/rentals/3fc766eeb8f90bc3d4e5b0ed68639eee.jpg?31363531383232353436,MRT民權西路。機能便利。新裝潢,45000,台北市,中山區,農安街,2,民權西路
-https://urhouse.s3.amazonaws.com/images/rentals/58f0c31fbecfaeccb4c08eb37ea9e4f7.jpg?31363536343937323534,MRT六張犁北醫生活圈綠景2房,45000,台北市,信義區,信安街,2,六張犁
-https://urhouse.s3.amazonaws.com/attachments/images/old/1682/1.jpg,近芝山站忠誠公園高樓景觀戶,45000,台北市,士林區,福國路,2,芝山
-https://urhouse.s3.amazonaws.com/images/rentals/ef864ebbb6f6386038671578e2548cdf.jpg?31363536343938313134,榮星花園高樓美景泡澡大套含車含管,45000,台北市,中山區,五常街,0,中山國中
-https://urhouse.s3.amazonaws.com/attachments/images/old/13702/1.jpg,MRT六張犁  高樓層華廈,45000,台北市,大安區,和平東路三段,3,六張犁
-https://urhouse.s3.amazonaws.com/images/rentals/db90e948252c7d1753efe6fc9612dabe.jpg?31363530353236373031,MRT永春*全新首租*生活機能佳,45000,台北市,信義區,虎林街,2,永春
-https://urhouse.s3.amazonaws.com/attachments/images/old/13775/1.jpg,MRT芝山 典雅美宅,45000,台北市,士林區,德行西路,2,芝山
-https://urhouse.s3.amazonaws.com/images/rentals/6cd3f3cfef62c9dbf52ea6645d16fb6b.jpg?31363436313130333537,MRT松江南京，酒店公寓，適外商,45000,台北市,中山區,松江路,0,松江南京
-https://urhouse.s3.amazonaws.com/images/rentals/e49d6912cc703f6e84c19a3a58492b9f.jpg?31363534303436353638,MRT北門，高樓層，精緻設計,45000,台北市,中正區,中華路一段,1,北門
-https://urhouse.s3.amazonaws.com/attachments/images/old/12498/1.jpg,MRT劍南路.明亮寬敞2+1.,45000,台北市,中山區,敬業三路,3,劍南路（美麗華）
-https://urhouse.s3.amazonaws.com/images/rentals/9dd28afc29684433c16b3855ae3cb9b6.jpg?31363439373536303332,"TAS,TES 面學校 清幽好宅",45000,台北市,士林區,福志路,3,士林
-https://urhouse.s3.amazonaws.com/images/rentals/89dafaf4e16185424fa93241c009fa52.jpg?31363536373331353130,MRT世貿高樓101景觀泡澡大套,45000,台北市,信義區,松勤街,1,台北101/世貿
-https://urhouse.s3.amazonaws.com/images/rentals/0a6b81775eca5ee27b72deef7972375a.jpg?31363532323533363832,MRT象山/近信義商圈/101景,47000,台北市,信義區,信義路五段,1,象山
-https://urhouse.s3.amazonaws.com/images/rentals/2bed57b5e7da7db0be5cd65a00bf6405.jpg?31363439333232333230,MRT台電大樓.師大商圈.住辦,46800,台北市,中正區,羅斯福路三段,3,台電大樓
-https://urhouse.s3.amazonaws.com/images/rentals/54fda78aa8a09b4d77b5aaec57b75028.jpg?31363531353834383430,MRT中山、松江南京。寬敞明亮,48000,台北市,中山區,新生北路二段,3,松江南京
-https://urhouse.s3.amazonaws.com/images/rentals/d468e2fdf2626d801897db0a0e8915d6.jpg?31363535363335393430,民權西/全新未住/1+1房車位,46000,台北市,大同區,承德路三段,1,圓山
-https://urhouse.s3.amazonaws.com/images/rentals/40d1dd91595f074c0cbda6b4c3a0ace5.jpg?31363535373036383735,MRT唭哩岸站/近公園/含管理,46500,台北市,北投區,立農街一段,3,唭哩岸
-https://urhouse.s3.amazonaws.com/images/rentals/2390243c9f76219138eed6daa4beee0f.jpg?31363436333730373539,大湖公園/清幽環境/美式裝潢2房,48000,台北市,內湖區,大湖街,2,大湖公園
-https://urhouse.s3.amazonaws.com/attachments/images/old/15551/1.jpg,MRT南軟園區. 第一手入住單身,48000,台北市,南港區,經貿二路,2,南港軟體園區
-https://urhouse.s3.amazonaws.com/images/rentals/1452f0389a6958d1dde205a3c5d29495.jpg?31363536373537353835,MRT市政府/新裝潢/鬧中取靜,48000,台北市,信義區,永吉路,0,市政府
-https://urhouse.s3.amazonaws.com/images/rentals/ae789113b952dd0673b4c80a48720bfe.jpg?31363535313136303435,【忠孝敦化站】雙敦學區裝潢三房,48000,台北市,松山區,敦化南路一段,3,忠孝敦化
-https://urhouse.s3.amazonaws.com/images/rentals/e9cb54cbc877fe2cf2bc1293d2ec1254.jpg?31363532383435343630,MRT南京復興，市街熱鬧，高樓層,48000,台北市,松山區,八德路二段,2,南京復興
-https://urhouse.s3.amazonaws.com/images/rentals/53ac2d01e41ff949c11c916309ae17b7.jpg?31363437303732373832,MRT松江南京/可貓/2+1房,48000,台北市,中山區,伊通街,3,松江南京
-https://urhouse.s3.amazonaws.com/images/rentals/214f57783cac173e183096a607a408be.jpg?31363532333431333230,MRT東門/近大安森林/高樓層,48000,台北市,中正區,信義路二段,1,東門
-https://urhouse.s3.amazonaws.com/attachments/images/old/13729/1.jpg,MRT市政府、室內寬敞、收納大空間、採光好【可線上參觀】,49000,台北市,信義區,永吉路,2,市政府
-https://urhouse.s3.amazonaws.com/images/rentals/187bec2578ef4a5cb35bdfbe8fc8088e.jpg?31363534363936343939,MRT劍南站大直高樓綠景兩房,50000,台北市,中山區,北安路,2,劍南路（美麗華）
-https://urhouse.s3.amazonaws.com/images/rentals/6eec765ffa292bcccdc000289cefe64c.jpg?31363437393434323431,影片。東門站。永康商圈兩房,50000,台北市,大安區,永康街,2,東門
-https://urhouse.s3.amazonaws.com/attachments/images/old/9482/1.jpg,MRT象山站   超高視野景觀 ,50000,台北市,信義區,信義路五段,1,象山
-https://urhouse.s3.amazonaws.com/images/rentals/3be4d3f098a8da78f521afe939a92f1c.jpg?31363436343632343835,新裝修/東區/浴缸/雙拼三房空屋,49500,台北市,大安區,忠孝東路四段,3,忠孝敦化
-https://urhouse.s3.amazonaws.com/attachments/images/old/2369/1.jpg,近東門站.仁愛路.靜巷裝潢美宅【,50000,台北市,中正區,仁愛路二段,2,東門
-https://urhouse.s3.amazonaws.com/attachments/images/old/2408/1.jpg,MRT中山國中，室內空間大,50000,台北市,中山區,民權東路三段,3,中山國中
-https://urhouse.s3.amazonaws.com/attachments/images/old/15532/1.jpg,MRT中山國中.經典優雅.日商首,50000,台北市,中山區,合江街,2,中山國中
-https://urhouse.s3.amazonaws.com/attachments/images/old/1723/1.jpg,影片。東門站。永康商全。簡約兩房,50000,台北市,大安區,永康街,2,東門
-https://urhouse.s3.amazonaws.com/attachments/images/old/1934/1.jpg,MRT南京復興.挑高溫馨.2+2,50000,台北市,中山區,長春路,2,南京復興
-https://urhouse.s3.amazonaws.com/attachments/images/old/3471/1.jpg,MRT象山.時尚簡約風.溫馨1+,50000,台北市,信義區,信義路五段,2,象山
-https://urhouse.s3.amazonaws.com/attachments/images/old/9941/1.jpg,💎可線上看💎中山站／靜巷高樓溫馨,50000,台北市,中山區,中山北路一段,2,中山
-https://urhouse.s3.amazonaws.com/attachments/images/old/3790/1.jpg,MRT大安. 都會風大2房,53000,台北市,大安區,大安路二段,2,大安
-https://urhouse.s3.amazonaws.com/attachments/images/old/14575/1.jpg,MRT北車 日式風1+1和室 可,50000,台北市,大同區,市民大道一段,2,台北車站
-https://urhouse.s3.amazonaws.com/images/rentals/7af1e47458962fa10f52faeef3319119.jpg?31363430383635343232,MRT南港展覽館/採光景觀大戶,53000,台北市,南港區,研究院路一段,3,南港展覽館
-https://urhouse.s3.amazonaws.com/images/rentals/7c7b8ecb4103d42ead56a8849982855b.jpg?31363530333530373730,MRT101/有管理/高樓兩房,52000,台北市,信義區,光復南路,2,台北101/世貿
-https://urhouse.s3.amazonaws.com/images/rentals/579036d9585c651f97a1490a46616132.jpg?31363531303533333731,MRT南京三民・下樓即捷運,50000,台北市,松山區,南京東路五段,3,南京三民
-https://urhouse.s3.amazonaws.com/attachments/images/old/4831/1.jpg,MRT士林*高樓三房*平車,50000,台北市,士林區,基河路,3,士林
-https://urhouse.s3.amazonaws.com/attachments/images/old/15156/1.jpg,台電大樓.古亭國小.溫馨3+1房,54000,台北市,大安區,泰順街,4,台電大樓
-https://urhouse.s3.amazonaws.com/images/rentals/7ce5417e80aef872ba20917011e39416.jpg?31363536303730363130,MRT南京復興/公寓/空屋/可寵,55000,台北市,中山區,龍江路,3,南京復興
-https://urhouse.s3.amazonaws.com/attachments/images/old/4180/1.jpg,近台灣大學 優質1房 管理好,55000,台北市,大安區,辛亥路二段,1,科技大樓
-https://urhouse.s3.amazonaws.com/attachments/images/old/11008/1.jpg,MRT信義安和  精品二房美宅,55000,台北市,大安區,光復南路,2,信義安和
-https://urhouse.s3.amazonaws.com/images/rentals/8e08227323cd829e449559bb381484b7.jpg?31363536353537373336,信義區精美裝潢2房,54000,台北市,信義區,基隆路二段,1,六張犁
-https://urhouse.s3.amazonaws.com/attachments/images/old/13370/1.jpg,MRT芝山站 忠誠公園華廈,55000,台北市,士林區,中山北路六段,4,芝山
-https://urhouse.s3.amazonaws.com/images/rentals/ff42b03a06a1bed4e936f0e04958e168.jpg?31363535353335363833,天母/TAS/可寵/3房空屋平車,55000,台北市,士林區,中山北路六段,3,明德
-https://urhouse.s3.amazonaws.com/attachments/images/old/14310/1.jpg,【線上看 安心租】MRT中山國小,55000,台北市,中山區,雙城街,2,中山國小
-https://urhouse.s3.amazonaws.com/images/rentals/3b0cc7bcc871da67259a21b278670614.jpg?31363530383931313039,劍潭站/士林夜市/家樂福3房車位,55000,台北市,士林區,華齡街,3,士林
-https://urhouse.s3.amazonaws.com/images/rentals/4542d2e436ceac357ad7d9073a2c1665.jpg?31363439303432333935,MRT石牌&唭哩岸，新大樓首出租,55000,台北市,北投區,石牌路一段,2,石牌（榮總）
-https://urhouse.s3.amazonaws.com/attachments/images/old/13180/1.jpg,南京三民優質3+1房,55000,台北市,松山區,健康路,3,南京三民
-https://urhouse.s3.amazonaws.com/attachments/images/old/15813/1.jpg,Mrt南港 精美裝潢 高樓景觀戶,55000,台北市,南港區,南港路二段,3,南港
-https://urhouse.s3.amazonaws.com/images/rentals/1560fe0e80c19847a91c22e69d5036f1.jpg?31363439303533313932,東區商圈/有管理/正三房空屋,56000,台北市,大安區,復興南路一段,3,忠孝復興
-https://urhouse.s3.amazonaws.com/attachments/images/old/14759/1.jpg,MRT芝山  中山北路華廈,57000,台北市,士林區,中山北路六段,3,石牌（榮總）
-https://urhouse.s3.amazonaws.com/images/rentals/0e9f1b15c7f9b9f6a72a4e9a51b35862.jpg?31363534323230363135,MRT圓山，室內空間大，日商首選,55000,台北市,大同區,敦煌路,3,圓山
-https://urhouse.s3.amazonaws.com/images/rentals/e9f65207f2bb46c3dc1e5828a08541b2.jpg?31363536333135313835,天母TAS/四房/可寵/空屋,56000,台北市,士林區,天母西路,4,石牌（榮總）
-https://urhouse.s3.amazonaws.com/attachments/images/old/12938/1.jpg,MRT中山國中  敦化北路靜巷,57000,台北市,松山區,民權東路三段,3,中山國中
-https://urhouse.s3.amazonaws.com/images/rentals/6318d3c5f897f3bce7542a3e9236bdb6.jpg?31363436313033323833,MRT雙連，有浴缸，日商最愛,55000,台北市,中山區,中山北路二段,1,雙連（馬偕紀念醫院）
-https://urhouse.s3.amazonaws.com/attachments/images/old/10156/1.jpg,天玉街靜巷  一層一戶  ,58000,台北市,士林區,天玉街,2,石牌（榮總）
-https://urhouse.s3.amazonaws.com/images/rentals/cea64a883d35e5409c4bc81bdaedd55e.jpg?31363438343633313534,近忠孝敦化  2房1廳全新裝潢,58000,台北市,大安區,敦化南路一段,2,忠孝敦化
-https://urhouse.s3.amazonaws.com/attachments/images/old/8176/1.jpg,MRT南京松江.高樓邊間採光1+,57000,台北市,中山區,建國北路二段,2,松江南京
-https://urhouse.s3.amazonaws.com/attachments/images/old/14596/1.jpg,MRT南京三民，時尚裝潢，生活機,58000,台北市,松山區,延壽街,3,南京三民
-https://urhouse.s3.amazonaws.com/attachments/images/old/15183/1.jpg,MRT台北車站.京站廣場.五鐵,58000,台北市,大同區,市民大道一段,2,台北車站
-https://urhouse.s3.amazonaws.com/images/rentals/8a5058234fc3c1cdbb0e54c3fbdaeb33.jpg?31363433343530323735,MRT忠孝復興SOGO商圈3房,58000,台北市,大安區,建國南路一段,3,忠孝復興
-https://urhouse.s3.amazonaws.com/images/rentals/80b912d8d81919969ccab0080ddd8e2f.jpg?31363532373639393834,東區/有倒垃圾/正三房,60000,台北市,大安區,忠孝東路四段,3,忠孝復興
-https://urhouse.s3.amazonaws.com/images/rentals/29408e40f29b755231e852fb76b71b4b.jpg?31363535313832323637,MRT中山國中&南京復興，新裝潢,60000,台北市,中山區,民生東路三段,3,中山國中
-https://urhouse.s3.amazonaws.com/attachments/images/old/10156/1.jpg,天玉街靜巷  一層一戶  ,58000,台北市,士林區,天玉街,2,石牌（榮總）
-https://urhouse.s3.amazonaws.com/images/rentals/069802d489a7b73dd31fd13b0f2cd690.jpg?31363438373834343030,MRT六張犁/飯店式管理/高樓層,58000,台北市,信義區,基隆路二段,2,六張犁
-https://urhouse.s3.amazonaws.com/images/rentals/c14a8df1e1b4d5297e9cb30cb34d5a00.jpg?31363434373537363432,大直景觀裝潢三房平車,60000,台北市,中山區,北安路,3,劍南路（美麗華）
-https://urhouse.s3.amazonaws.com/attachments/images/old/10719/1.jpg,MRT中山   璞園日式建築管理,58000,台北市,中山區,中山北路一段,1,中山
-https://urhouse.s3.amazonaws.com/images/rentals/c80743f12de3498a6cf0d7d10e732233.jpg?31363431353639373730,MRT芝山  士林採光傢俱美宅,60000,台北市,士林區,士東路,3,芝山
-https://urhouse.s3.amazonaws.com/images/rentals/351869bde8b9d6ad1e3090bd173f600d.jpg?31363439323236393936,MRT市政府.面綠意.簡約時尚,60000,台北市,信義區,永吉路,3,市政府
-https://urhouse.s3.amazonaws.com/images/rentals/9677548ee4ee2f157590053c5c5f56c4.jpg?31363536333330323030,MRT台電大樓 1樓大車位,60000,台北市,中正區,辛亥路一段,3,台電大樓
-https://urhouse.s3.amazonaws.com/attachments/images/old/15286/1.jpg,MRT中山國小  全新裝潢簡約歐,60000,台北市,中山區,雙城街,2,中山國小
-https://urhouse.s3.amazonaws.com/attachments/images/old/3925/1.jpg,MRT南港展覽館.高樓層景觀露臺戶,60000,台北市,南港區,研究院路一段,3,南港展覽館
-https://urhouse.s3.amazonaws.com/attachments/images/old/12131/1.jpg,天母西路  靜巷華廈正3房,60000,台北市,士林區,天母西路,3,石牌（榮總）
-https://urhouse.s3.amazonaws.com/attachments/images/old/15839/1.jpg,國館101景觀租金便宜DIY,62000,台北市,大安區,光復南路,3,國父紀念館
-https://urhouse.s3.amazonaws.com/attachments/images/old/14627/1.jpg,近新光三越.天母國中美日僑校三房美廈,62000,台北市,士林區,天母東路,3,芝山
-https://urhouse.s3.amazonaws.com/images/rentals/f4f845d6fdeca6547c012e2b85347ae5.jpg?31363532343236383739,MRT雙連*家俱電齊全*租金含稅,60000,台北市,中山區,林森北路,2,雙連（馬偕紀念醫院）
-https://urhouse.s3.amazonaws.com/images/rentals/a3c5e98cbfa4ee6526dd52b58feff672.jpg?31363439383438353439,松江南京/美式吧台/浴缸正2房,62000,台北市,中山區,松江路,2,松江南京
-https://urhouse.s3.amazonaws.com/attachments/images/old/1762/1.jpg,*可線上看*近捷運大安 精美裝潢,60000,台北市,大安區,大安路一段,2,大安
-https://urhouse.s3.amazonaws.com/images/rentals/00368789723d67f4d768abd29b985b24.jpg?31363535313836363033,中正紀念堂/三面採光/高樓層可寵,62000,台北市,中正區,寧波西街,4,中正紀念堂
-https://urhouse.s3.amazonaws.com/attachments/images/old/14464/1.jpg,天母北路 5房採光華廈,62500,台北市,士林區,天母北路,5,石牌（榮總）
-https://urhouse.s3.amazonaws.com/images/rentals/bdee0997d3fb6be8515a432051fe4e5c.jpg?31363535313738343434,中山國小/完整公設/2房平車,63000,台北市,中山區,新生北路二段,2,中山國小
-https://urhouse.s3.amazonaws.com/images/rentals/93106f2b3d83f77dbb5a098e014fad40.jpg?31363532383433353138,天母／美日僑學校／近大葉高島屋,65000,台北市,士林區,忠誠路二段,3,石牌（榮總）
-https://urhouse.s3.amazonaws.com/images/rentals/a0db07376ffdd25bdd4eb084b03d5908.jpg?31363536353637313234,MRT內湖 近公園有車位,63800,台北市,內湖區,內湖路三段,3,內湖
-https://urhouse.s3.amazonaws.com/images/rentals/b449151eb61e7fdffc88095f40059ac3.jpg?31363531353638333634,MRT象山・寬敞兩房・近101,65000,台北市,信義區,信義路五段,2,象山
-https://urhouse.s3.amazonaws.com/images/rentals/c881617af0ae19b38dd0546548cd53ad.jpg?31363438313138353736,MRT雙連 漂亮裝潢1+1,65000,台北市,中山區,新生北路二段,2,雙連（馬偕紀念醫院）
-https://urhouse.s3.amazonaws.com/attachments/images/old/12997/1.jpg,線上看**天母北路 全新裝潢 3,65000,台北市,士林區,天母北路,3,石牌（榮總）
-https://urhouse.s3.amazonaws.com/attachments/images/old/13401/1.jpg,天母美日僑學校.設計師裝潢3+1,65000,台北市,士林區,天玉街,4,明德
-https://urhouse.s3.amazonaws.com/images/rentals/e6326390cc3cf594bbd691bc13b6f0ff.jpg?31363533343737353532,天母商圈/空間大/社區管理佳,65000,台北市,士林區,忠義街,4,芝山
-https://urhouse.s3.amazonaws.com/attachments/images/old/4175/1.jpg,近台灣大學 優質2房 管理好,65000,台北市,大安區,辛亥路二段,2,科技大樓
-https://urhouse.s3.amazonaws.com/attachments/images/old/9629/1.jpg,MRT世貿101.四四南村 .寬,65000,台北市,信義區,松勤街,3,台北101/世貿
-https://urhouse.s3.amazonaws.com/attachments/images/old/14691/1.jpg,天母正中心、比鄰TAS、屋況精美,65000,台北市,士林區,天母東路,3,明德
-https://urhouse.s3.amazonaws.com/images/rentals/51c9d0385c088de752dfb41cfa835a37.jpg?31363531333835353237,國館/101/正3房平車,68000,台北市,信義區,仁愛路四段,3,國父紀念館
-https://urhouse.s3.amazonaws.com/attachments/images/old/7651/1.jpg,MRT雙連.品味設計.日外商首選,65000,台北市,中山區,新生北路二段,2,雙連（馬偕紀念醫院）
-https://urhouse.s3.amazonaws.com/images/rentals/528eb47b936c737fcfdec8b5f6aa3dd0.jpg?31363439363733393331,高樓景觀新落成兩房(車另),65000,台北市,松山區,光復南路,2,國父紀念館
-https://urhouse.s3.amazonaws.com/attachments/images/old/5025/1.jpg,MRT劍南路  樂群三路大空間 ,67000,台北市,中山區,樂群三路,3,劍南路（美麗華）
-https://urhouse.s3.amazonaws.com/images/rentals/f8327022557b5b3edc49bc7a6b2d4fab.jpg?31363439333033383637,全新社區/樹梢浴缸/3房車位,66000,台北市,大安區,杭州南路二段,3,古亭
-https://urhouse.s3.amazonaws.com/attachments/images/old/10230/1.jpg,MRT中山國小/晴光商圈. 簡約,65000,台北市,中山區,雙城街,3,中山國小
-https://urhouse.s3.amazonaws.com/images/rentals/4e9d4f159d588700cf812f18d9920017.jpg?31363536303530373438,MRT小巨蛋、國館。雙捷運。高檔,68000,台北市,松山區,光復南路,2,台北小巨蛋
-https://urhouse.s3.amazonaws.com/attachments/images/old/13604/1.jpg,MRT忠孝新生、採光明亮、美溫馨,70000,台北市,中正區,忠孝東路二段,2,忠孝新生（台北科大）
-https://urhouse.s3.amazonaws.com/attachments/images/old/12639/1.jpg,中山北路7段  天母圓環近TAS,70000,台北市,士林區,中山北路七段,3,石牌（榮總）
-https://urhouse.s3.amazonaws.com/images/rentals/60c4c8272e3838f9e57e80f4363afc78.jpg?31363535373139393235,MRT龍山寺/近公園/火車站,68000,台北市,萬華區,艋舺大道,3,龍山寺（艋舺商圈）
-https://urhouse.s3.amazonaws.com/images/rentals/0845e4af78488cb5bacf0cbf68305d08.jpg?31363537303235333331,台電大樓/樹梢中島/管理正三房,68000,台北市,中正區,辛亥路一段,3,台電大樓
-https://urhouse.s3.amazonaws.com/images/rentals/9f6c3ea07d9b1c9e0c94d6a3b21398de.jpg?31363534303535313431,MRT石牌  磺溪景觀美寓,68000,台北市,北投區,天母西路,4,石牌（榮總）
-https://urhouse.s3.amazonaws.com/images/rentals/2d5486b4c0f962f1cdaad61790fad438.jpg?31363433323537383932,天母／全新美裝潢／樓高採光好,70000,台北市,士林區,天母西路,2,芝山
-https://urhouse.s3.amazonaws.com/images/rentals/a553d8b97c3bf25342ab7b005edeb2fa.jpg?31363430363936353130,MRT石牌  天母西路精美好宅7,72000,台北市,士林區,天母西路,2,石牌（榮總）
-https://urhouse.s3.amazonaws.com/attachments/images/old/15294/1.jpg,MRT象山/可寵/明亮乾淨裝潢,70000,台北市,信義區,信義路五段,1,象山
-https://urhouse.s3.amazonaws.com/images/rentals/295ae14ec5e43368c81c241a3ff07d8b.jpg?31363437383439303438,忠孝新生站優質住宅,70000,台北市,中正區,忠孝東路二段,2,忠孝新生（台北科大）
-https://urhouse.s3.amazonaws.com/images/rentals/de713869d1db126cff30a1fc0e990962.jpg?31363535373230313830,MRT葫洲站/近大湖公園/大空間,70000,台北市,內湖區,金湖路,4,葫洲
-https://urhouse.s3.amazonaws.com/images/rentals/ad92350e4633462fd6eb5956da8876f2.jpg?31363536353633363739,MRT芝山大空間美廈 @忠誠公園,70000,台北市,士林區,中山北路六段,4,芝山
-https://urhouse.s3.amazonaws.com/images/rentals/a0179641d667ce21172c78e960b3a1ef.jpg?31363536313333333534,天母TAS/一層一戶/3+1,75000,台北市,士林區,忠誠路二段,3,芝山
-https://urhouse.s3.amazonaws.com/attachments/images/old/15745/1.jpg,影片。葫洲站。湖山村。四層別墅,75000,台北市,內湖區,康寧路三段,6,葫洲
-https://urhouse.s3.amazonaws.com/images/rentals/96bcb45a6e30b2b3381934344b10a7ce.jpg?31363536333233373532,小巨蛋.松菸.質感管理佳,75000,台北市,松山區,八德路三段,3,台北小巨蛋
-https://urhouse.s3.amazonaws.com/attachments/images/old/12844/1.jpg,臨綠地新落成高樓採光可寵 ,75000,台北市,中正區,汀州路一段,3,古亭
-https://urhouse.s3.amazonaws.com/images/rentals/a4a587f3d0835928d30c2253f0624953.jpg?31363439383334373536,南京復興富御精美三房,75000,台北市,中山區,長安東路二段,3,南京復興
-https://urhouse.s3.amazonaws.com/images/rentals/8a7c03958cbbbb5d374f4be72690ca7e.jpg?31363438363339343234,天母東路 靜巷採光美寓,72000,台北市,士林區,天母東路,3,芝山
-https://urhouse.s3.amazonaws.com/attachments/images/old/14167/1.jpg,忠孝敦化優質華廈,78000,台北市,大安區,忠孝東路四段,3,忠孝敦化
-https://urhouse.s3.amazonaws.com/images/rentals/fe33b4901179d6118f8859c27426e45b.jpg?31363439343737333034,MRT大直站*可寵*含雙車位,76000,台北市,中山區,明水路,4,大直（實踐大學）
-https://urhouse.s3.amazonaws.com/attachments/images/old/7319/1.jpg,近政大.美式生活.綠意山景,78000,台北市,文山區,政大一街,3,動物園
-https://urhouse.s3.amazonaws.com/images/rentals/9184a041ce18953012722dcfa9052c39.jpg?31363535393535383735,TAS.TES*正3房*質感社區,76000,台北市,士林區,芝玉路一段,3,芝山
-https://urhouse.s3.amazonaws.com/images/rentals/3f1d00695d5aac23f5c556054b88be47.jpg?31363434353638303931,世貿商圈高樓山景宮廷風採光三房,78000,台北市,信義區,基隆路二段,3,台北101/世貿
-https://urhouse.s3.amazonaws.com/attachments/images/old/15620/1.jpg,MRT大安、新穎裝潢、地點便利,80000,台北市,大安區,大安路二段,1,大安
-https://urhouse.s3.amazonaws.com/attachments/images/old/7527/1.jpg,MRT101*空屋四房含平車,80000,台北市,信義區,松勤街,4,台北101/世貿
-https://urhouse.s3.amazonaws.com/images/rentals/68ad8922e887bc33e8f1bfd2ba26e6c8.jpg?31363530363134393730,大直/24小時管理/4房雙車位,80000,台北市,中山區,北安路,4,大直（實踐大學）
-https://urhouse.s3.amazonaws.com/attachments/images/old/5637/1.jpg,信義計畫區.象山公園.精緻裝潢,80000,台北市,信義區,信義路五段,3,象山
-https://urhouse.s3.amazonaws.com/attachments/images/old/10639/1.jpg,MRT小巨蛋.南京三民雙捷運,80000,台北市,松山區,南京東路五段,2,南京三民
-https://urhouse.s3.amazonaws.com/images/rentals/0c3508c6e86bfc75fabd0d0b54eef7a1.jpg?31363536333231343630,台北車站.精華生活圈.大坪數,80000,台北市,中山區,中山北路一段,2,台北車站
-https://urhouse.s3.amazonaws.com/attachments/images/old/12753/1.jpg,天母北路   全新裝潢 3房華廈,80000,台北市,士林區,天母北路,3,石牌（榮總）
-https://urhouse.s3.amazonaws.com/attachments/images/old/11579/1.jpg,MRT小巨蛋 中古名宅 採光大三,85000,台北市,松山區,敦化南路一段,3,台北小巨蛋
-https://urhouse.s3.amazonaws.com/images/rentals/82aa639f39ebbc1bb4a396eeef74ca6b.jpg?31363534353135353034,MRT石牌  承德路大空間宅,85000,台北市,北投區,承德路七段,3,石牌（榮總）
-https://urhouse.s3.amazonaws.com/images/rentals/95f8a41d276ddf36bcdc87d53627da29.jpg?31363534323631313031,MRT象山   商務精品雅宅,85000,台北市,信義區,信義路五段,2,象山
-https://urhouse.s3.amazonaws.com/attachments/images/old/12662/1.jpg,內湖成功路 日系質感名宅,85000,台北市,內湖區,成功路二段,2,文德（碧湖公園）
-https://urhouse.s3.amazonaws.com/attachments/images/old/2370/1.jpg,近內科.美麗華.環境清幽.全新裝潢,85000,台北市,中山區,基湖路,3,西湖（德明科大）
-https://urhouse.s3.amazonaws.com/attachments/images/old/11483/1.jpg,MRT大直.綠蔭景觀裝潢2+1房,83000,台北市,中山區,明水路,2,大直（實踐大學）
-https://urhouse.s3.amazonaws.com/images/rentals/4851e9a2a49e54a3adc2dcbacd64fffc.jpg?31363535333439303433,MRT中山，有浴缸，日外商最愛,85000,台北市,中山區,中山北路一段,2,中山
-https://urhouse.s3.amazonaws.com/attachments/images/old/5754/1.jpg,信義區時尚氣派 酒店式公寓 豪華商務: 可線上看,85000,台北市,信義區,基隆路二段,2,六張犁
-https://urhouse.s3.amazonaws.com/attachments/images/old/1181/1.jpg,天母新光三越。美國學校。適外商,85000,台北市,士林區,天母東路,5,明德
-https://urhouse.s3.amazonaws.com/attachments/images/old/13972/1.jpg,近TAS  天母新光三越  機能,85000,台北市,士林區,天母東路,4,芝山
-https://urhouse.s3.amazonaws.com/attachments/images/old/1433/1.jpg,忠孝復興名人巷名宅愛富園SOGO,89000,台北市,大安區,大安路一段,4,忠孝復興
-https://urhouse.s3.amazonaws.com/attachments/images/old/13028/1.jpg,MRT忠孝復興.全新三百萬裝潢美,89000,台北市,大安區,復興南路一段,2,忠孝復興
-https://urhouse.s3.amazonaws.com/images/rentals/a530271b32d4cca7b2817af7bc0de0db.jpg?31363534383535363433,MRT東門/日式極簡美裝潢2+1,90000,台北市,中正區,金山南路一段,3,東門
-https://urhouse.s3.amazonaws.com/images/rentals/2f891485332423c8715842537cf742a0.jpg?31363437353935393031,MRT 善導寺 •3B/R SE,90000,台北市,中山區,長安東路一段,3,善導寺
-https://urhouse.s3.amazonaws.com/attachments/images/old/10286/1.jpg,MRT明德  簡約雅宅,90000,台北市,北投區,榮華三路,3,明德
-https://urhouse.s3.amazonaws.com/attachments/images/old/15394/1.jpg,中山北路七段   全新大樓2+1,90000,台北市,士林區,中山北路七段,3,石牌（榮總）
-https://urhouse.s3.amazonaws.com/images/rentals/0a9612880adf61ac669c2eb54e4207e3.jpg?31363532323532353731,MRT芝山 忠誠公園景觀宅,90000,台北市,士林區,忠誠路一段,3,芝山
-https://urhouse.s3.amazonaws.com/attachments/images/old/1981/1.jpg,仁愛安和優質名宅,90000,台北市,大安區,安和路一段,5,忠孝敦化
-https://urhouse.s3.amazonaws.com/images/rentals/6d179945d495cfa31025c8a9299ec401.jpg?31363436333033353238,中山北路7段 高樓景觀親山宅,100000,台北市,士林區,中山北路七段,4,石牌（榮總）
-https://urhouse.s3.amazonaws.com/attachments/images/old/14377/1.jpg,線上看**MRT芝山 芝玉路景觀,92000,台北市,士林區,芝玉路一段,3,芝山
-https://urhouse.s3.amazonaws.com/attachments/images/old/14098/1.jpg,大直知名豪邸. 5+1房/可線上,100000,台北市,中山區,堤頂大道二段,5,內湖
-https://urhouse.s3.amazonaws.com/attachments/images/old/13018/1.jpg,信義區山景 景觀華麗美宅 ,95000,台北市,信義區,吳興街,3,象山
-https://urhouse.s3.amazonaws.com/attachments/images/old/15801/1.jpg,MRT石牌   簡約大戶空間  ,95000,台北市,士林區,中山北路七段,4,石牌（榮總）
-https://urhouse.s3.amazonaws.com/images/rentals/5d4e2809bba49effaa7e5ca4202d043e.jpg?31363438343439373431,MRT中山。新穎裝潢。優質社區,100000,台北市,中山區,中山北路二段,2,中山
-https://urhouse.s3.amazonaws.com/images/rentals/669682950cf309c75581fb49f3e2cef2.jpg?31363535373230363930,MRT忠孝新生/近公園/含管理費,100000,台北市,中正區,仁愛路二段,2,忠孝新生（台北科大）
-https://urhouse.s3.amazonaws.com/images/rentals/0f952174804b40b04d68a82833cff3f8.jpg?31363436373137343931,陽明山景觀四房附雙車位,100000,台北市,士林區,菁山路,4,士林
-https://urhouse.s3.amazonaws.com/images/rentals/1af2f80dc87577a2c309b3ee992a07c5.jpg?31363533343538323935,毛胚格局/可連同隔壁戶打通/高樓,100000,台北市,內湖區,新明路,1,松山
-https://urhouse.s3.amazonaws.com/attachments/images/old/13127/1.jpg,天母東路 新光三越 華廈,100000,台北市,士林區,天母東路,4,芝山
-https://urhouse.s3.amazonaws.com/images/rentals/9b20ac4d9a8059cae3c7c4733bbc40a3.jpg?31363533343537393330,毛胚格局/高樓景觀/24小時管理,100000,台北市,內湖區,新明路,1,松山
-https://urhouse.s3.amazonaws.com/attachments/images/old/4296/1.jpg,近忠孝新生站.精美裝潢兩房*高CP,100000,台北市,中正區,金山南路一段,2,忠孝新生（台北科大）
-https://urhouse.s3.amazonaws.com/attachments/images/old/1271/1.jpg,內湖站.綠蔭景觀宅精美裝潢2房.,100000,台北市,內湖區,內湖路三段,2,內湖
-https://urhouse.s3.amazonaws.com/attachments/images/old/9701/1.jpg,MRT劍南路站 文湖街指標美宅,100000,台北市,內湖區,文湖街,3,劍南路（美麗華）
-https://urhouse.s3.amazonaws.com/images/rentals/117007d714adf33db6d2653d903ebf2d.jpg?31363433303136373531,內湖站 屋齡新 質感社區,100000,台北市,內湖區,成功路四段,4,內湖
-https://urhouse.s3.amazonaws.com/images/rentals/0fc163f5d52156860e72d1993e30ed6a.jpg?31363533303135313833,新莊副都心.高樓.全新1+1房,32000,新北市,新莊區,中華路三段,2,新北產業園區
-https://urhouse.s3.amazonaws.com/images/rentals/4bc336b15417584fcec3e7dcc531d836.jpg?31363438373738353830,MRT新店區公所，全新裝潢,55000,新北市,新店區,北新路一段,3,新店區公所
-https://urhouse.s3.amazonaws.com/images/rentals/81853dc778186bff64ba4b47dacfe8aa.jpg?31363437383734333431,MRT新莊副都心  全新裝潢雅宅,58000,新北市,新莊區,中原路,3,新北產業園區
-https://urhouse.s3.amazonaws.com/images/rentals/79d51f4d7e4d54d54b55519c3b462d00.jpg?31363532373032383730,江翠美式工業風優質名宅,65000,新北市,板橋區,莊敬路,3,江子翠
-https://urhouse.s3.amazonaws.com/attachments/images/old/12631/1.jpg,新板特區簡約空屋三房,65000,新北市,板橋區,漢生東路,4,板橋
-https://urhouse.s3.amazonaws.com/attachments/images/old/15559/1.jpg,MRT北投 陽明山/淡水河出海口,34000,新北市,淡水區,興福寮,2,北投
-https://urhouse.s3.amazonaws.com/images/rentals/d4ae72ec5374a998c56865d04fb32da5.jpg?31363532313133343338,MRT崁頂站  淡水美麗新4房,35799,新北市,淡水區,新市五路三段,4,紅樹林
-https://urhouse.s3.amazonaws.com/attachments/images/old/8109/1.jpg,景安站／高樓景觀全新四房／適外商,53200,新北市,中和區,景安路,4,景安
-https://urhouse.s3.amazonaws.com/attachments/images/old/15716/1.jpg,MRT北投 陽明山/淡水河出海口,35000,新北市,淡水區,興福寮,2,北投
-https://urhouse.s3.amazonaws.com/attachments/images/old/12631/1.jpg,新板特區簡約空屋三房,65000,新北市,板橋區,漢生東路,4,板橋
-https://urhouse.s3.amazonaws.com/images/rentals/0fc163f5d52156860e72d1993e30ed6a.jpg?31363533303135313833,新莊副都心.高樓.全新1+1房,32000,新北市,新莊區,中華路三段,2,新北產業園區
-https://urhouse.s3.amazonaws.com/attachments/images/old/15559/1.jpg,MRT北投 陽明山/淡水河出海口,34000,新北市,淡水區,興福寮,2,北投
-https://urhouse.s3.amazonaws.com/attachments/images/old/15876/1.jpg,汐止車站  高樓層景觀戶  ,100000,新北市,汐止區,大同路二段,3,南港展覽館
-https://urhouse.s3.amazonaws.com/attachments/images/old/14841/1.jpg,MRT十四張.近河濱公園 3+1,80000,新北市,新店區,溪園路,4,十四張
-https://urhouse.s3.amazonaws.com/attachments/images/old/5294/1.jpg,面河岸優質4房稀有樓中樓,90000,新北市,永和區,環河西路一段,4,頂溪
-https://urhouse.s3.amazonaws.com/attachments/images/old/13472/1.jpg,MRT竹圍   美式花草庭園  ,65000,新北市,淡水區,自強路,4,竹圍
+image,title,price,city,district,road,rooms,mrt_line,floor_size
+https://urhouse.s3.amazonaws.com/images/rentals/991675ef521cb2089cccd6a852f72cac.jpg?31363534323436373736,天母古道旁景色宜人,30000,台北市,士林區,中山北路七段,2,明德,30.000000
+https://urhouse.s3.amazonaws.com/attachments/images/old/13709/1.jpg,MRT中山國中、大收納、百萬裝潢、精巧空間，有浴缸【可線上參觀】,30000,台北市,松山區,復興北路,1,中山國中,12.000000
+https://urhouse.s3.amazonaws.com/attachments/images/old/4151/1.jpg,中山國小捷運站全新裝潢美套房,32000,台北市,中山區,民權東路二段,1,中山國小,29.590000
+https://urhouse.s3.amazonaws.com/images/rentals/19d9438c1c41a576fbf6738854a84a28.jpg?31363534353939303630,MRT象山信義高樓套房,30000,台北市,信義區,信義路五段,1,象山,15.550000
+https://urhouse.s3.amazonaws.com/images/rentals/0847428640312d7e5f0804dcb8b2cd01.jpg?31363534313638333336,MRT中山國小/近花博/機能佳,30000,台北市,中山區,農安街,1,中山國小,11.280000
+https://urhouse.s3.amazonaws.com/attachments/images/old/14061/1.jpg,MRT龍山寺.新穎社區、第一手承,30000,台北市,萬華區,西園路二段,1,龍山寺（艋舺商圈）,23.680000
+https://urhouse.s3.amazonaws.com/images/rentals/0ebcdb06cf4d039f0d08b356c26bc466.jpg?31363430373637363737,市政府 時尚裝潢,33500,台北市,信義區,永吉路,1,市政府,30.050000
+https://urhouse.s3.amazonaws.com/images/rentals/4b7bb0379e2a232c12329c9a212801a9.jpg?31363531363530393336,山景幽靜美寓*簡約裝潢,33000,台北市,北投區,新民路,2,"",18.510000
+https://urhouse.s3.amazonaws.com/images/rentals/152c97a9bb6f2ababc2c73a46cfef7a3.jpg?31363536343834303735,中山國中採光雙陽台景觀1房,33000,台北市,松山區,復興北路,1,中山國中,25.060000
+https://urhouse.s3.amazonaws.com/attachments/images/old/3908/1.jpg,MRT大橋頭.延三夜市.稀有邊間,33000,台北市,大同區,民權西路,1,大橋頭,23.830000
+https://urhouse.s3.amazonaws.com/images/rentals/9c9744d143d2abbe041317b7b76f8e85.jpg?31363534353933363330,MRT忠孝新生.高樓採光,32000,台北市,中山區,八德路二段,1,忠孝新生（台北科大）,10.310000
+https://urhouse.s3.amazonaws.com/attachments/images/old/15667/1.jpg,MRT芝山/忠誠路靜巷獨立院子,32500,台北市,士林區,忠誠路一段,1,芝山,13.750000
+https://urhouse.s3.amazonaws.com/images/rentals/f7ab113fb2bdb9d5674ef9ab826d7979.jpg?31363531363539303834,MRT石牌站/近天母商圈/榮總,34000,台北市,北投區,裕民一路,2,石牌（榮總）,21.780000
+https://urhouse.s3.amazonaws.com/images/rentals/b20ab15a36e8643d52041a1cbce997e5.jpg?31363532303032323338,MRT中山  寧夏商圈一房  ,35000,台北市,大同區,寧夏路,1,中山,18.760000
+https://urhouse.s3.amazonaws.com/images/rentals/1a26a28c4beba1bd232cd88b972438cd.jpg?31363533373237363338,MRT北車.寧靜愜意.優美,35000,台北市,中山區,中山北路一段,1,台北車站,20.980000
+https://urhouse.s3.amazonaws.com/images/rentals/559269b636448e707b934d2e19a15af8.jpg?31363531353534363235,近萬大路/青年公園/住辦,35000,台北市,萬華區,萬青街,1,"",25.530000
+https://urhouse.s3.amazonaws.com/attachments/images/old/1713/1.jpg,東門忠孝新生站。靜巷採光兩房,35000,台北市,中正區,連雲街,2,忠孝新生（台北科大）,26.540000
+https://urhouse.s3.amazonaws.com/images/rentals/4898db26f9e2d470f0d9931c4fc7b901.jpg?31363533303332373736,MRT南京三民.民生社區.高樓,35000,台北市,松山區,民生東路五段,1,南京三民,10.480000
+https://urhouse.s3.amazonaws.com/images/rentals/957fe82f1784483968a1af17af7dc0db.jpg?31363535373233303633,松江南京共構/可寵瓦斯/完整公設,35000,台北市,中山區,南京東路二段,1,松江南京,14.650000
+https://urhouse.s3.amazonaws.com/images/rentals/743006f5b956eb5d80f0662463426b2b.jpg?31363534353730313334,MRT士林站・精緻溫馨小窩・含管,36000,台北市,士林區,中正路,2,士林,19.980000
+https://urhouse.s3.amazonaws.com/images/rentals/0b1a9804a1661ef758a1f76011b7ceb8.jpg?31363537303132313438,天母商圈/國際學校/7.24開放,35000,台北市,士林區,中山北路六段,3,"",33.370000
+https://urhouse.s3.amazonaws.com/images/rentals/6d5768ba809b699ac0cdb94f96acc739.jpg?31363534383433373033,MRT西門/採光/機能佳,36000,台北市,萬華區,成都路,1,西門,15.790000
+https://urhouse.s3.amazonaws.com/attachments/images/old/15418/1.jpg,MRT松江南京 酒店式公寓 生活機能好,36000,台北市,中山區,松江路,1,松江南京,73.620000
+https://urhouse.s3.amazonaws.com/attachments/images/old/9456/1.jpg,MRT象山.美裝潢.收納多,35000,台北市,信義區,信義路五段,0,象山,14.020000
+https://urhouse.s3.amazonaws.com/attachments/images/old/14888/1.jpg,MRT民權西路/採光極好,38000,台北市,中山區,天祥路,1,民權西路,26.160000
+https://urhouse.s3.amazonaws.com/images/rentals/ca9eac0c76de0cab71d5b50951fe4c5f.jpg?31363536373534393032,MRT北車五鐵共構泡澡可短租大套,36000,台北市,大同區,市民大道一段,1,台北車站,14.280000
+https://urhouse.s3.amazonaws.com/attachments/images/old/12134/1.jpg,MRT中山   寧夏商圈1+1 ,38000,台北市,大同區,寧夏路,1,中山,19.840000
+https://urhouse.s3.amazonaws.com/images/rentals/85da0ea73f51b181e3ce81a57d62f5b8.jpg?31363530353236303738,MRT松江南京/簡約/近華山園區,38000,台北市,中山區,長安東路一段,2,松江南京,22.230000
+https://urhouse.s3.amazonaws.com/images/rentals/792d6bb3fdf2afce6a0911b0820d5ada.jpg?31363437333937373338,MRT松江南京，酒店公寓，適外商,37000,台北市,中山區,松江路,0,松江南京,73.480000
+https://urhouse.s3.amazonaws.com/images/rentals/003bed21fddc817050c8fa11897fe660.jpg?31363532343038303033,MRT松江南京，酒店公寓，適外商,38000,台北市,中山區,松江路,0,松江南京,73.000000
+https://urhouse.s3.amazonaws.com/images/rentals/5f75e8eea894213d75a7c471116a3378.jpg?31363536393837303633,MRT雙連/高樓層/近南西商圈,38999,台北市,中山區,中山北路二段,2,雙連（馬偕紀念醫院）,30.550000
+https://urhouse.s3.amazonaws.com/images/rentals/8e225b8af6194ce00a5867fc85840757.jpg?31363437393434313834,MRT101/24管理/浴缸套房,39800,台北市,信義區,松勤街,1,台北101/世貿,15.560000
+https://urhouse.s3.amazonaws.com/images/rentals/a0e9cab17a035c5ad4c817c25188e195.jpg?31363533373237363432,內湖/三房/空屋,39000,台北市,內湖區,行善路,3,"",39.360000
+https://urhouse.s3.amazonaws.com/images/rentals/7aaba5f3511f56128e7130c2973e0503.jpg?31363536343934333933,MRT港墘 超大空間,40000,台北市,內湖區,內湖路一段,1,內湖,28.530000
+https://urhouse.s3.amazonaws.com/images/rentals/e608961813ac47bc0cfbcac85dd2147f.jpg?31363436353736353837,MRT小巨蛋/溫馨裝潢/IKEA,39800,台北市,松山區,南京東路四段,2,台北小巨蛋,21.080000
+https://urhouse.s3.amazonaws.com/images/rentals/f9d8c6f4d86d8f4ae626834601492846.jpg?31363437353733373235,可寵/山景裝潢/2房車位,38800,台北市,信義區,吳興街,2,台北101/世貿,32.000000
+https://urhouse.s3.amazonaws.com/images/rentals/c4896e2b7f31bdb285363d1ef8ce327e.jpg?31363536363538343939,MRT小巨蛋電梯1+1泡湯小豪宅,40000,台北市,松山區,八德路三段,2,台北小巨蛋,13.330000
+https://urhouse.s3.amazonaws.com/images/rentals/0eb178c5581f651876fadae5a8980899.jpg?31363435313636323939,近中山國小站.舒適採光空間.可寵,40000,台北市,中山區,中山北路二段,1,中山國小,18.820000
+https://urhouse.s3.amazonaws.com/images/rentals/33681279c167c7fcd2997ed72cfb4c4a.jpg?31363532343037343430,MRT松江南京，酒店公寓，適外商,41000,台北市,中山區,松江路,0,松江南京,72.000000
+https://urhouse.s3.amazonaws.com/images/rentals/fb4d518989bdeae9784d99c398f86f1f.jpg?31363536363635383732,雙捷大面落地窗雙衛兩房,40000,台北市,中山區,南京東路一段,2,中山,24.280000
+https://urhouse.s3.amazonaws.com/images/rentals/3de50263500e3421017469e47e8dd36e.jpg?31363535383837353739,MRT辛亥高樓綠景,42000,台北市,文山區,辛亥路四段,2,辛亥,32.480000
+https://urhouse.s3.amazonaws.com/images/rentals/76b9419064e61d1a0a82607b0cbd7fc4.jpg?31363533383834383138,MRT龍山寺/近河濱公園/採光佳,42000,台北市,萬華區,環河南路二段,2,龍山寺（艋舺商圈）,26.790000
+https://urhouse.s3.amazonaws.com/images/rentals/1352d2eb517ab94728c89acc30c5e141.jpg?31363535303839333639,MRT南軟,43000,台北市,南港區,重陽路,2,南港軟體園區,23.200000
+https://urhouse.s3.amazonaws.com/images/rentals/b3a5a6df0cf1dfc30882b20f8a493092.jpg?31363437383537333436,MRT南京復興/長安八德/敦南,43000,台北市,松山區,八德路二段,2,南京復興,23.410000
+https://urhouse.s3.amazonaws.com/attachments/images/old/4865/1.jpg,MRT南京復興面公園高樓採光2房,45000,台北市,中山區,龍江路,2,南京復興,33.010000
+https://urhouse.s3.amazonaws.com/images/rentals/08ed87bd895f5562aacffd47d4c086eb.jpg?31363531323235323632,MRT市府站*高樓精美裝潢*挑高,43000,台北市,信義區,基隆路一段,2,市政府,16.450000
+https://urhouse.s3.amazonaws.com/attachments/images/old/15052/1.jpg,西門站.高樓採光全新釋出,44000,台北市,中正區,延平南路,1,西門,19.280000
+https://urhouse.s3.amazonaws.com/images/rentals/45efb53717e251fff467ff439bbce62e.jpg?31363533363931343733,近捷運機能好漂亮裝潢,44800,台北市,中山區,民權東路一段,1,中山國小,14.420000
+https://urhouse.s3.amazonaws.com/attachments/images/old/15132/1.jpg,【家合外商仲】忠孝敦化時尚三房,45000,台北市,大安區,敦化南路一段,3,忠孝敦化,28.930000
+https://urhouse.s3.amazonaws.com/images/rentals/82d06664f103890e512a109d0b5d1011.jpg?31363533303439333734,MRT芝山/TAS.TES 天母,45000,台北市,士林區,德行東路,3,"",37.320000
+https://urhouse.s3.amazonaws.com/images/rentals/fd8979ada2fd5bab05e9c5f035a5c4c7.jpg?31363536373634323533,近古亭站時尚二房,45000,台北市,中正區,南昌路二段,2,古亭,15.760000
+https://urhouse.s3.amazonaws.com/attachments/images/old/3647/1.jpg,近東門.優質環境精美2+1房.速,45000,台北市,中正區,杭州南路一段,2,東門,33.970000
+https://urhouse.s3.amazonaws.com/images/rentals/5f7020a8356d965f6c2fb42887d3df0f.jpg?31363438353235303631,大安森林公園1+1,45000,台北市,大安區,建國南路一段,1,大安森林公園,12.130000
+https://urhouse.s3.amazonaws.com/attachments/images/old/14410/1.jpg,MRT中山國小、民權西路.高雅,45000,台北市,中山區,民權東路一段,0,中山國小,14.420000
+https://urhouse.s3.amazonaws.com/images/rentals/3fc766eeb8f90bc3d4e5b0ed68639eee.jpg?31363531383232353436,MRT民權西路。機能便利。新裝潢,45000,台北市,中山區,農安街,2,民權西路,23.390000
+https://urhouse.s3.amazonaws.com/images/rentals/703aea31975f2fa45fdb3e4a8e378ad1.jpg?31363438383036333836,MRT公館站/近台大/三總,45000,台北市,中正區,汀州路三段,3,公館（台灣大學）,29.640000
+https://urhouse.s3.amazonaws.com/images/rentals/ec82bd533b0033cbd77efc4468d50093.jpg?31363534393339383435,忠孝新生/可寵浴缸/兩房空屋,45000,台北市,中正區,濟南路二段,2,忠孝新生（台北科大）,33.580000
+https://urhouse.s3.amazonaws.com/attachments/images/old/1965/1.jpg,近忠孝新生捷運站*金洋大廈,45000,台北市,中山區,新生北路一段,3,忠孝新生（台北科大）,36.270000
+https://urhouse.s3.amazonaws.com/images/rentals/470340e5b081f2e3653ec93a36ba5784.jpg?31363436383932373837,MRT六張犁。新穎漂亮。優質溫馨,45000,台北市,信義區,和平東路三段,2,六張犁,20.820000
+https://urhouse.s3.amazonaws.com/images/rentals/ef864ebbb6f6386038671578e2548cdf.jpg?31363536343938313134,榮星花園高樓美景泡澡大套含車含管,45000,台北市,中山區,五常街,0,中山國中,18.780000
+https://urhouse.s3.amazonaws.com/attachments/images/old/14062/1.jpg,MRT龍山寺、新穎社區、第一手承租【可線上參觀】,45000,台北市,萬華區,西園路二段,3,龍山寺（艋舺商圈）,37.240000
+https://urhouse.s3.amazonaws.com/attachments/images/old/13775/1.jpg,MRT芝山 典雅美宅,45000,台北市,士林區,德行西路,2,芝山,21.000000
+https://urhouse.s3.amazonaws.com/images/rentals/765812833515fce06c971624f85391da.jpg?31363537303136373534,南京三民 生活機能 全方位,45000,台北市,松山區,南京東路四段,3,南京三民,42.260000
+https://urhouse.s3.amazonaws.com/images/rentals/f4cfab7920e9cb176ab3b4e324d85f63.jpg?31363535313833373133,MRT中山國小，可報稅,45000,台北市,中山區,新生北路三段,2,中山國小,23.000000
+https://urhouse.s3.amazonaws.com/attachments/images/old/9962/1.jpg,古亭漂亮裝潢2房,45000,台北市,中正區,南昌路二段,2,古亭,17.760000
+https://urhouse.s3.amazonaws.com/attachments/images/old/12498/1.jpg,MRT劍南路.明亮寬敞2+1.,45000,台北市,中山區,敬業三路,3,劍南路（美麗華）,46.960000
+https://urhouse.s3.amazonaws.com/images/rentals/597a335cf6a10ec4f1861d6397a2fcdf.jpg?31363530343432323238,MRT象山/外商限定/101景觀,46000,台北市,信義區,信義路五段,1,象山,27.820000
+https://urhouse.s3.amazonaws.com/images/rentals/5b18e1a3e2092783aea4b1aa4a894d8a.jpg?31363438313834383034,信義典雅小豪宅*採光佳,46000,台北市,信義區,信義路五段,1,象山,26.310000
+https://urhouse.s3.amazonaws.com/attachments/images/old/11302/1.jpg,"近榮總 TAS,TJS 公園景觀",48000,台北市,北投區,天母北路,3,石牌（榮總）,40.390000
+https://urhouse.s3.amazonaws.com/images/rentals/6cd3f3cfef62c9dbf52ea6645d16fb6b.jpg?31363436313130333537,MRT松江南京，酒店公寓，適外商,45000,台北市,中山區,松江路,0,松江南京,73.620000
+https://urhouse.s3.amazonaws.com/images/rentals/2390243c9f76219138eed6daa4beee0f.jpg?31363436333730373539,大湖公園/清幽環境/美式裝潢2房,48000,台北市,內湖區,大湖街,2,大湖公園,33.790000
+https://urhouse.s3.amazonaws.com/images/rentals/2bed57b5e7da7db0be5cd65a00bf6405.jpg?31363439333232333230,MRT台電大樓.師大商圈.住辦,46800,台北市,中正區,羅斯福路三段,3,台電大樓,35.750000
+https://urhouse.s3.amazonaws.com/attachments/images/old/2532/1.jpg,東門捷運。精緻裝潢三房。傢俱電齊,48000,台北市,大安區,永康街,3,東門,27.640000
+https://urhouse.s3.amazonaws.com/images/rentals/53ac2d01e41ff949c11c916309ae17b7.jpg?31363437303732373832,MRT松江南京/可貓/2+1房,48000,台北市,中山區,伊通街,3,松江南京,23.240000
+https://urhouse.s3.amazonaws.com/images/rentals/ae789113b952dd0673b4c80a48720bfe.jpg?31363535313136303435,【忠孝敦化站】雙敦學區裝潢三房,48000,台北市,松山區,敦化南路一段,3,忠孝敦化,23.700000
+https://urhouse.s3.amazonaws.com/images/rentals/ba00c3e6292cc2a52a34e7b373a4a9eb.jpg?31363537303930383332,忠孝新生/靜巷純住/雙陽台三房,48000,台北市,中正區,臨沂街,3,忠孝新生（台北科大）,31.360000
+https://urhouse.s3.amazonaws.com/attachments/images/old/15551/1.jpg,MRT南軟園區. 第一手入住單身,48000,台北市,南港區,經貿二路,2,南港軟體園區,25.950000
+https://urhouse.s3.amazonaws.com/images/rentals/2adee3823fe0b1c49ce2b4124cdcecda.jpg?31363439303531313932,MRT大湖山莊/空間寬敞/近公園,48000,台北市,內湖區,大湖山莊街,3,大湖公園,66.330000
+https://urhouse.s3.amazonaws.com/images/rentals/6eec765ffa292bcccdc000289cefe64c.jpg?31363437393434323431,影片。東門站。永康商圈兩房,50000,台北市,大安區,永康街,2,東門,23.730000
+https://urhouse.s3.amazonaws.com/attachments/images/old/8451/1.jpg,MRT小巨蛋優質前後陽台附傢俱傢,49800,台北市,松山區,敦化北路,3,台北小巨蛋,51.830000
+https://urhouse.s3.amazonaws.com/attachments/images/old/2606/1.jpg,MRT象山.低調奢華裝潢,49000,台北市,信義區,信義路五段,1,象山,27.820000
+https://urhouse.s3.amazonaws.com/attachments/images/old/14114/1.jpg,MRT石牌 磺溪景觀公寓,49000,台北市,北投區,天母西路,2,石牌（榮總）,43.020000
+https://urhouse.s3.amazonaws.com/images/rentals/ffb04b3fde58882155c0f560b7e20bea.jpg?31363531333833353931,麟光站/山景/2房休旅車位,50000,台北市,大安區,臥龍街,2,麟光,32.590000
+https://urhouse.s3.amazonaws.com/attachments/images/old/15641/1.jpg,MRT象山、永春.寧靜高樓、室內狀況好、含稅,50000,台北市,信義區,信義路六段,3,象山,43.650000
+https://urhouse.s3.amazonaws.com/images/rentals/187bec2578ef4a5cb35bdfbe8fc8088e.jpg?31363534363936343939,MRT劍南站大直高樓綠景兩房,50000,台北市,中山區,北安路,2,劍南路（美麗華）,22.770000
+https://urhouse.s3.amazonaws.com/attachments/images/old/2369/1.jpg,近東門站.仁愛路.靜巷裝潢美宅【,50000,台北市,中正區,仁愛路二段,2,東門,13.780000
+https://urhouse.s3.amazonaws.com/attachments/images/old/15532/1.jpg,MRT中山國中.經典優雅.日商首,50000,台北市,中山區,合江街,2,中山國中,24.260000
+https://urhouse.s3.amazonaws.com/attachments/images/old/15460/1.jpg,MRT明德  3房美宅  租金含,50000,台北市,北投區,榮華三路,3,明德,35.770000
+https://urhouse.s3.amazonaws.com/images/rentals/abe91e465b7716462b975aa2c7f2b221.jpg?31363536333234353332,MRT民權西路 全新裝潢,50000,台北市,中山區,中山北路二段,2,民權西路,30.380000
+https://urhouse.s3.amazonaws.com/images/rentals/46f5ffb3777b7659bb35da6ddab19e05.jpg?31363536363637393833,信義安和.通化夜市 精美1房,50000,台北市,大安區,光復南路,1,信義安和,19.370000
+https://urhouse.s3.amazonaws.com/attachments/images/old/4831/1.jpg,MRT士林*高樓三房*平車,50000,台北市,士林區,基河路,3,士林,37.400000
+https://urhouse.s3.amazonaws.com/images/rentals/8480ce3751484ef6ea7471ad04eaa9a7.jpg?31363536373433353131,MRT世貿101/精美公園宅3房,50000,台北市,信義區,松勤街,3,台北101/世貿,52.090000
+https://urhouse.s3.amazonaws.com/attachments/images/old/1723/1.jpg,影片。東門站。永康商全。簡約兩房,50000,台北市,大安區,永康街,2,東門,22.830000
+https://urhouse.s3.amazonaws.com/images/rentals/7c7b8ecb4103d42ead56a8849982855b.jpg?31363530333530373730,MRT101/有管理/高樓兩房,52000,台北市,信義區,光復南路,2,台北101/世貿,25.170000
+https://urhouse.s3.amazonaws.com/images/rentals/d7e81e78801865d4e4c1be615e762ba4.jpg?31363537313735383638,陽明山景觀宅  @TES,50000,台北市,士林區,菁山路,3,士林,75.210000
+https://urhouse.s3.amazonaws.com/images/rentals/ca5d2301e833bedfa62053bb8210da20.jpg?31363537313834393631,MRT六張犁*新裝潢首租*靜巷,50000,台北市,大安區,樂業街,2,六張犁,21.190000
+https://urhouse.s3.amazonaws.com/images/rentals/d1dd8694b6108ff7bccc19acd47be4ff.jpg?31363438383739343638,近榮總 靜巷溫馨裝潢 獨立小院子,52000,台北市,北投區,石牌路二段,3,"",42.710000
+https://urhouse.s3.amazonaws.com/images/rentals/8e08227323cd829e449559bb381484b7.jpg?31363536353537373336,信義區精美裝潢2房,54000,台北市,信義區,基隆路二段,1,六張犁,28.500000
+https://urhouse.s3.amazonaws.com/attachments/images/old/3790/1.jpg,MRT大安. 都會風大2房,53000,台北市,大安區,大安路二段,2,大安,33.900000
+https://urhouse.s3.amazonaws.com/images/rentals/a5148ecf1c9f85aadcf0e2feb881df73.jpg?31363439343132303634,落地採光*質感裝潢*含車位,52000,台北市,中山區,建國北路三段,2,行天宮,22.670000
+https://urhouse.s3.amazonaws.com/attachments/images/old/11008/1.jpg,MRT信義安和  精品二房美宅,55000,台北市,大安區,光復南路,2,信義安和,25.570000
+https://urhouse.s3.amazonaws.com/images/rentals/afd53be629a8800e6447030f2e0961f7.jpg?31363439313531323531,MRT信義安和*雙衛浴*外商首選,52000,台北市,大安區,通安街,2,信義安和,24.930000
+https://urhouse.s3.amazonaws.com/attachments/images/old/13370/1.jpg,MRT芝山站 忠誠公園華廈,55000,台北市,士林區,中山北路六段,4,芝山,57.020000
+https://urhouse.s3.amazonaws.com/attachments/images/old/12318/1.jpg,MRT忠孝復興.公園綠地.室內寬敞方正三空間【可線上參觀】,55000,台北市,大安區,忠孝東路三段,3,忠孝復興,34.820000
+https://urhouse.s3.amazonaws.com/images/rentals/7ce5417e80aef872ba20917011e39416.jpg?31363536303730363130,MRT南京復興/公寓/空屋/可寵,55000,台北市,中山區,龍江路,3,南京復興,57.400000
+https://urhouse.s3.amazonaws.com/images/rentals/529d61de9a04a13e71dad539be290df4.jpg?31363533323736383130,MRT南港，全新大樓，可寵,55000,台北市,南港區,重陽路,2,南港,25.890000
+https://urhouse.s3.amazonaws.com/attachments/images/old/14929/1.jpg,清幽環境.3+1空間,55000,台北市,內湖區,環山路三段,3,港墘,48.370000
+https://urhouse.s3.amazonaws.com/attachments/images/old/13180/1.jpg,南京三民優質3+1房,55000,台北市,松山區,健康路,3,南京三民,39.130000
+https://urhouse.s3.amazonaws.com/images/rentals/4542d2e436ceac357ad7d9073a2c1665.jpg?31363439303432333935,MRT石牌&唭哩岸，新大樓首出租,55000,台北市,北投區,石牌路一段,2,石牌（榮總）,25.170000
+https://urhouse.s3.amazonaws.com/images/rentals/0e9f1b15c7f9b9f6a72a4e9a51b35862.jpg?31363534323230363135,MRT圓山，室內空間大，日商首選,55000,台北市,大同區,敦煌路,3,圓山,42.410000
+https://urhouse.s3.amazonaws.com/images/rentals/1560fe0e80c19847a91c22e69d5036f1.jpg?31363439303533313932,東區商圈/有管理/正三房空屋,56000,台北市,大安區,復興南路一段,3,忠孝復興,47.600000
+https://urhouse.s3.amazonaws.com/attachments/images/old/14310/1.jpg,【線上看 安心租】MRT中山國小,55000,台北市,中山區,雙城街,2,中山國小,42.880000
+https://urhouse.s3.amazonaws.com/attachments/images/old/12620/1.jpg,MRT西湖.面公園.景色美 租期二年,56000,台北市,內湖區,內湖路一段,3,內湖,51.530000
+https://urhouse.s3.amazonaws.com/attachments/images/old/14809/1.jpg,MRT大橋頭.採光超好.空間大,56000,台北市,大同區,安西街,3,大橋頭,47.640000
+https://urhouse.s3.amazonaws.com/images/rentals/c1082e40d6bd5c5d64f2ccb8f73cea5c.jpg?31363532373739383639,大安森林公園/科技大樓商圈/2房,58000,台北市,大安區,和平東路二段,2,科技大樓,36.910000
+https://urhouse.s3.amazonaws.com/images/rentals/c6ac51ebf500f3f09ad11db31d7d18ce.jpg?31363434333037323535,六張犁時尚大空間,58000,台北市,信義區,基隆路二段,0,六張犁,28.500000
+https://urhouse.s3.amazonaws.com/images/rentals/558e3aa9f7f9b7049d1fadda292d23a1.jpg?31363431313932373936,MRT麟光站，首次出租，裝潢時尚,57000,台北市,大安區,臥龍街,2,麟光,24.610000
+https://urhouse.s3.amazonaws.com/attachments/images/old/13369/1.jpg,MRT芝山站  忠誠公園華廈,57000,台北市,士林區,中山北路六段,5,芝山,63.900000
+https://urhouse.s3.amazonaws.com/images/rentals/d0b7f2a36b6838fe81fcee29d2f410a2.jpg?31363533313838393234,南軟中信/重陽重劃/三房平車空屋,57500,台北市,南港區,重陽路,3,南港軟體園區,49.190000
+https://urhouse.s3.amazonaws.com/attachments/images/old/14596/1.jpg,MRT南京三民，時尚裝潢，生活機,58000,台北市,松山區,延壽街,3,南京三民,59.320000
+https://urhouse.s3.amazonaws.com/images/rentals/cea64a883d35e5409c4bc81bdaedd55e.jpg?31363438343633313534,近忠孝敦化  2房1廳全新裝潢,58000,台北市,大安區,敦化南路一段,2,忠孝敦化,43.760000
+https://urhouse.s3.amazonaws.com/images/rentals/80b912d8d81919969ccab0080ddd8e2f.jpg?31363532373639393834,東區/有倒垃圾/正三房,60000,台北市,大安區,忠孝東路四段,3,忠孝復興,32.970000
+https://urhouse.s3.amazonaws.com/attachments/images/old/10156/1.jpg,天玉街靜巷  一層一戶  ,58000,台北市,士林區,天玉街,2,石牌（榮總）,38.900000
+https://urhouse.s3.amazonaws.com/images/rentals/069802d489a7b73dd31fd13b0f2cd690.jpg?31363438373834343030,MRT六張犁/飯店式管理/高樓層,58000,台北市,信義區,基隆路二段,2,六張犁,31.960000
+https://urhouse.s3.amazonaws.com/images/rentals/58f170c366f582dba770b94119f6099a.jpg?31363536343832313536,信義區吳興街/四房/空屋/大露臺,58000,台北市,信義區,吳興街,4,象山,50.000000
+https://urhouse.s3.amazonaws.com/attachments/images/old/15183/1.jpg,MRT台北車站.京站廣場.五鐵,58000,台北市,大同區,市民大道一段,2,台北車站,26.200000
+https://urhouse.s3.amazonaws.com/images/rentals/29408e40f29b755231e852fb76b71b4b.jpg?31363535313832323637,MRT中山國中&南京復興，新裝潢,60000,台北市,中山區,民生東路三段,3,中山國中,33.160000
+https://urhouse.s3.amazonaws.com/images/rentals/c80743f12de3498a6cf0d7d10e732233.jpg?31363431353639373730,MRT芝山  士林採光傢俱美宅,60000,台北市,士林區,士東路,3,芝山,53.390000
+https://urhouse.s3.amazonaws.com/images/rentals/74a14dc6be3d469770f53dd3fb93c6c4.jpg?31363530333634303733,MRT台北小巨蛋．101景含車,60000,台北市,松山區,八德路三段,1,台北小巨蛋,21.650000
+https://urhouse.s3.amazonaws.com/images/rentals/c14a8df1e1b4d5297e9cb30cb34d5a00.jpg?31363434373537363432,大直景觀裝潢三房平車,60000,台北市,中山區,北安路,3,劍南路（美麗華）,37.780000
+https://urhouse.s3.amazonaws.com/attachments/images/old/12131/1.jpg,天母西路  靜巷華廈正3房,60000,台北市,士林區,天母西路,3,石牌（榮總）,45.980000
+https://urhouse.s3.amazonaws.com/attachments/images/old/3925/1.jpg,MRT南港展覽館.高樓層景觀露臺戶,60000,台北市,南港區,研究院路一段,3,南港展覽館,37.690000
+https://urhouse.s3.amazonaws.com/attachments/images/old/1762/1.jpg,*可線上看*近捷運大安 精美裝潢,60000,台北市,大安區,大安路一段,2,大安,25.650000
+https://urhouse.s3.amazonaws.com/images/rentals/351869bde8b9d6ad1e3090bd173f600d.jpg?31363439323236393936,MRT市政府.面綠意.簡約時尚,60000,台北市,信義區,永吉路,3,市政府,22.920000
+https://urhouse.s3.amazonaws.com/images/rentals/f4f845d6fdeca6547c012e2b85347ae5.jpg?31363532343236383739,MRT雙連*家俱電齊全*租金含稅,60000,台北市,中山區,林森北路,2,雙連（馬偕紀念醫院）,25.190000
+https://urhouse.s3.amazonaws.com/images/rentals/4d6a0e7e466e151b0a886d2f027183c1.jpg?31363430363936303936,MRT石牌  天母西路精美好宅,62000,台北市,士林區,天母西路,2,石牌（榮總）,13.080000
+https://urhouse.s3.amazonaws.com/images/rentals/a3c5e98cbfa4ee6526dd52b58feff672.jpg?31363439383438353439,松江南京/美式吧台/浴缸正2房,62000,台北市,中山區,松江路,2,松江南京,35.110000
+https://urhouse.s3.amazonaws.com/images/rentals/aac8f7d518e4300ab8031d6709164f1d.jpg?31363532383539353735,雙捷運/浴缸前陽台/高樓採光車位,60000,台北市,中正區,博愛路,2,西門,36.690000
+https://urhouse.s3.amazonaws.com/images/rentals/eb1daa7f2b5068f7127382b1eae924b7.jpg?31363439373738383231,MRT圓山  靜巷採光高樓景觀,64000,台北市,中山區,雙城街,2,圓山,39.750000
+https://urhouse.s3.amazonaws.com/images/rentals/5cd096b58d0fc4db8a84fdb5e9826a29.jpg?31363535373139353038,MRT永春站/近公園/優質裝潢,63000,台北市,信義區,忠孝東路五段,3,永春,42.900000
+https://urhouse.s3.amazonaws.com/images/rentals/2fefc978e8573441bb22120ecc62ac7d.jpg?31363537303034303335,MRT東門*商圈靜巷*租金含稅,63000,台北市,中正區,信義路二段,3,東門,35.750000
+https://urhouse.s3.amazonaws.com/images/rentals/b8d889c4e9b34bc7dc7a93a2a9a91070.jpg?31363535313738323235,中山國小站/樹梢景觀/2房平車,62000,台北市,中山區,新生北路二段,2,中山國小,24.900000
+https://urhouse.s3.amazonaws.com/images/rentals/064d5929fb1f298f64353d6f3e25ffac.jpg?31363437393237343838,近大安森林公園/可寵/,63000,台北市,中正區,信義路二段,1,東門,21.020000
+https://urhouse.s3.amazonaws.com/images/rentals/a0db07376ffdd25bdd4eb084b03d5908.jpg?31363536353637313234,MRT內湖 近公園有車位,63800,台北市,內湖區,內湖路三段,3,內湖,55.100000
+https://urhouse.s3.amazonaws.com/attachments/images/old/4175/1.jpg,近台灣大學 優質2房 管理好,65000,台北市,大安區,辛亥路二段,2,科技大樓,35.910000
+https://urhouse.s3.amazonaws.com/images/rentals/c881617af0ae19b38dd0546548cd53ad.jpg?31363438313138353736,MRT雙連 漂亮裝潢1+1,65000,台北市,中山區,新生北路二段,2,雙連（馬偕紀念醫院）,22.380000
+https://urhouse.s3.amazonaws.com/images/rentals/3ab58ac7f8dbc97557145ef30f1a486a.jpg?31363536363532313636,MRT象山*美裝2房*101景觀,65000,台北市,信義區,信義路五段,2,象山,34.060000
+https://urhouse.s3.amazonaws.com/images/rentals/b449151eb61e7fdffc88095f40059ac3.jpg?31363531353638333634,MRT象山・寬敞兩房・近101,65000,台北市,信義區,信義路五段,2,象山,28.200000
+https://urhouse.s3.amazonaws.com/attachments/images/old/13401/1.jpg,天母美日僑學校.設計師裝潢3+1,65000,台北市,士林區,天玉街,4,明德,40.720000
+https://urhouse.s3.amazonaws.com/attachments/images/old/14124/1.jpg,MRT象山.高樓層 【可線上參觀,65000,台北市,信義區,信義路五段,2,象山,64.950000
+https://urhouse.s3.amazonaws.com/images/rentals/9274a5a0ee8785f893c95ac9420bfecf.jpg?31363438373739303135,中山商圈/24管理/雙衛車位套房,65000,台北市,中山區,長春路,1,中山,28.650000
+https://urhouse.s3.amazonaws.com/images/rentals/f8327022557b5b3edc49bc7a6b2d4fab.jpg?31363439333033383637,全新社區/樹梢浴缸/3房車位,66000,台北市,大安區,杭州南路二段,3,古亭,42.070000
+https://urhouse.s3.amazonaws.com/attachments/images/old/9629/1.jpg,MRT世貿101.四四南村 .寬,65000,台北市,信義區,松勤街,3,台北101/世貿,52.080000
+https://urhouse.s3.amazonaws.com/images/rentals/e6baae661f54db3aa1d9f76b2c893882.jpg?31363531353834363435,善導寺站/華山市場/3寢室車位,66000,台北市,中正區,忠孝東路一段,3,善導寺,38.510000
+https://urhouse.s3.amazonaws.com/attachments/images/old/2019/1.jpg,忠孝復興捷運站*四大套房,65000,台北市,大安區,復興南路一段,4,忠孝復興,34.150000
+https://urhouse.s3.amazonaws.com/images/rentals/528eb47b936c737fcfdec8b5f6aa3dd0.jpg?31363439363733393331,高樓景觀新落成兩房(車另),65000,台北市,松山區,光復南路,2,國父紀念館,29.500000
+https://urhouse.s3.amazonaws.com/attachments/images/old/12656/1.jpg,台北車站MRT.超大露臺便利生活圈舒適2房,68000,台北市,大同區,延平北路一段,2,台北車站,44.870000
+https://urhouse.s3.amazonaws.com/images/rentals/51c9d0385c088de752dfb41cfa835a37.jpg?31363531333835353237,國館/101/正3房平車,68000,台北市,信義區,仁愛路四段,3,國父紀念館,35.940000
+https://urhouse.s3.amazonaws.com/images/rentals/38350940d98a0cfddfa72b890eaa1fe0.jpg?31363535333634313431,MRT象山。綠意盎然。優雅1+1,68000,台北市,信義區,信義路五段,2,象山,32.180000
+https://urhouse.s3.amazonaws.com/images/rentals/02521712a2db79856e98d9a95c2a87e1.jpg?31363534373730313036,MRT內湖 環境清幽 採光明亮,68000,台北市,內湖區,星雲街,4,內湖,35.410000
+https://urhouse.s3.amazonaws.com/images/rentals/4e9d4f159d588700cf812f18d9920017.jpg?31363536303530373438,MRT小巨蛋、國館。雙捷運。高檔,68000,台北市,松山區,光復南路,2,台北小巨蛋,31.000000
+https://urhouse.s3.amazonaws.com/images/rentals/352d47cf1a528e7f85aca7ef55669802.jpg?31363534393732373135,天母商圈・近美國學校日橋學校,68000,台北市,士林區,天母東路,3,"",51.040000
+https://urhouse.s3.amazonaws.com/images/rentals/ef58947dc33e8fc85af0f246352112f7.jpg?31363533393838343638,MRT葫洲/精品裝潢/高樓景觀美,70000,台北市,內湖區,康寧路三段,3,葫洲,35.760000
+https://urhouse.s3.amazonaws.com/images/rentals/ae2cd9938873f32a93b6c858bf62f26b.jpg?31363438303139343138,可線上看.中山國中/高樓景觀/視,70000,台北市,松山區,民權東路三段,1,中山國中,13.000000
+https://urhouse.s3.amazonaws.com/images/rentals/ba6e473d24d1e1aa6b3b977caff021b4.jpg?31363535323837373137,松山機場/民生社區/3+1房空屋,70000,台北市,松山區,敦化北路,4,松山機場,37.880000
+https://urhouse.s3.amazonaws.com/attachments/images/old/15294/1.jpg,MRT象山/可寵/明亮乾淨裝潢,70000,台北市,信義區,信義路五段,1,象山,45.130000
+https://urhouse.s3.amazonaws.com/images/rentals/0422e8355e7a19bcd12e88813692f0e0.jpg?31363439333138373935,MRT士林/高樓層稀有釋出/可寵,70000,台北市,士林區,大西路,3,士林,53.080000
+https://urhouse.s3.amazonaws.com/images/rentals/78e005de0c4a9c8ec257bd34181a9923.jpg?31363438303139333234,可線上看.中山國中/高樓景觀,70000,台北市,松山區,民權東路三段,1,中山國中,18.000000
+https://urhouse.s3.amazonaws.com/images/rentals/17a8e6855aeeeebe0b2e132f87a71a53.jpg?31363535343532373833,圓山公園全新落成絕美建案,73000,台北市,中山區,中山北路三段,2,圓山,29.660000
+https://urhouse.s3.amazonaws.com/images/rentals/767a40871fcc018629b26f3a9ff39e19.jpg?31363434343539313233,高樓景觀空屋全新未住三房平車,75000,台北市,大同區,延平北路一段,3,北門,62.860000
+https://urhouse.s3.amazonaws.com/images/rentals/d7cbbc7d02fca8a32ac5a3b5161ee19c.jpg?31363531323931393439,MRT龍山寺/近河濱公園/景觀,72000,台北市,萬華區,環河南路二段,3,龍山寺（艋舺商圈）,54.840000
+https://urhouse.s3.amazonaws.com/images/rentals/86fd6c86e53687c67e50bd29a08b133e.jpg?31363438303235383838,101世貿漂亮三房可另租坡平車位,70000,台北市,信義區,信義路五段,3,台北101/世貿,50.980000
+https://urhouse.s3.amazonaws.com/attachments/images/old/13158/1.jpg,中山國中站.靜巷簡約正兩房,74000,台北市,松山區,民權東路三段,2,中山國中,34.790000
+https://urhouse.s3.amazonaws.com/images/rentals/a0179641d667ce21172c78e960b3a1ef.jpg?31363536313333333534,天母TAS/一層一戶/3+1,75000,台北市,士林區,忠誠路二段,3,芝山,63.210000
+https://urhouse.s3.amazonaws.com/images/rentals/76c7c563b32ad9d8d09c72a2d17c90e1.jpg?31363437313033323335,MRT芝山 德行東路優質大樓,75000,台北市,士林區,德行東路,3,芝山,61.060000
+https://urhouse.s3.amazonaws.com/images/rentals/0caaa766dc911a0ba41070269c4a9758.jpg?31363536373536373031,MRT劍潭高樓河景大空間含車含管,75000,台北市,士林區,大南路,5,劍潭,72.240000
+https://urhouse.s3.amazonaws.com/attachments/images/old/9141/1.jpg,大安森林公園。高雅古典。,76000,台北市,大安區,新生南路三段,2,科技大樓,27.000000
+https://urhouse.s3.amazonaws.com/images/rentals/fe33b4901179d6118f8859c27426e45b.jpg?31363439343737333034,MRT大直站*可寵*含雙車位,76000,台北市,中山區,明水路,4,大直（實踐大學）,76.340000
+https://urhouse.s3.amazonaws.com/images/rentals/3f1d00695d5aac23f5c556054b88be47.jpg?31363434353638303931,世貿商圈高樓山景宮廷風採光三房,78000,台北市,信義區,基隆路二段,3,台北101/世貿,37.430000
+https://urhouse.s3.amazonaws.com/attachments/images/old/3269/1.jpg,國父紀念館站 * 高樓層 * ,75000,台北市,信義區,仁愛路四段,1,國父紀念館,18.230000
+https://urhouse.s3.amazonaws.com/attachments/images/old/15620/1.jpg,MRT大安、新穎裝潢、地點便利,80000,台北市,大安區,大安路二段,1,大安,33.970000
+https://urhouse.s3.amazonaws.com/images/rentals/d1aa227de516e4617cc72ab9cf456380.jpg?31363532343331353132,MRT中山・高樓層景觀佳・大稻埕,78000,台北市,大同區,南京西路,2,中山,57.640000
+https://urhouse.s3.amazonaws.com/attachments/images/old/7527/1.jpg,MRT101*空屋四房含平車,80000,台北市,信義區,松勤街,4,台北101/世貿,74.150000
+https://urhouse.s3.amazonaws.com/images/rentals/62dbdc10715d73b9fbbfdcda0a88848d.jpg?31363436333930363234,MRT忠孝新生/一層一戶溫馨裝潢,80000,台北市,中山區,長安東路一段,4,忠孝新生（台北科大）,59.970000
+https://urhouse.s3.amazonaws.com/attachments/images/old/5637/1.jpg,信義計畫區.象山公園.精緻裝潢,80000,台北市,信義區,信義路五段,3,象山,52.080000
+https://urhouse.s3.amazonaws.com/attachments/images/old/14167/1.jpg,忠孝敦化優質華廈,78000,台北市,大安區,忠孝東路四段,3,忠孝敦化,31.910000
+https://urhouse.s3.amazonaws.com/images/rentals/95f8a41d276ddf36bcdc87d53627da29.jpg?31363534323631313031,MRT象山   商務精品雅宅,85000,台北市,信義區,信義路五段,2,象山,16.770000
+https://urhouse.s3.amazonaws.com/attachments/images/old/9464/1.jpg,MRT101  象山站  鬧中取,80000,台北市,信義區,松智路,3,台北101/世貿,53.440000
+https://urhouse.s3.amazonaws.com/attachments/images/old/11483/1.jpg,MRT大直.綠蔭景觀裝潢2+1房,83000,台北市,中山區,明水路,2,大直（實踐大學）,48.650000
+https://urhouse.s3.amazonaws.com/images/rentals/03cdc6b841ba0131764711e5f1f4e47d.jpg?31363536373238333532,松江南京/公園綠意/雙車三房,80000,台北市,中山區,吉林路,3,松江南京,32.150000
+https://urhouse.s3.amazonaws.com/attachments/images/old/10237/1.jpg,MRT 劍潭站 圓山指標建築  ,80000,台北市,士林區,基河路,0,劍潭,82.810000
+https://urhouse.s3.amazonaws.com/attachments/images/old/4465/1.jpg,近市政府站.高樓精美採光大一房【可線上參觀】,82000,台北市,信義區,忠孝東路五段,1,市政府,23.380000
+https://urhouse.s3.amazonaws.com/attachments/images/old/1181/1.jpg,天母新光三越。美國學校。適外商,85000,台北市,士林區,天母東路,5,明德,38.270000
+https://urhouse.s3.amazonaws.com/attachments/images/old/14445/1.jpg,MRT中山，生活機能好，線上看,85000,台北市,中山區,中山北路一段,2,中山,32.040000
+https://urhouse.s3.amazonaws.com/images/rentals/7e5c6adb4152e8d402e5dba26664fa32.jpg?31363534313639373739,MRT劍南路.全新裝潢.大空間,85000,台北市,中山區,北安路,4,劍南路（美麗華）,73.530000
+https://urhouse.s3.amazonaws.com/attachments/images/old/13972/1.jpg,近TAS  天母新光三越  機能,85000,台北市,士林區,天母東路,4,芝山,73.970000
+https://urhouse.s3.amazonaws.com/attachments/images/old/5754/1.jpg,信義區時尚氣派 酒店式公寓 豪華商務: 可線上看,85000,台北市,信義區,基隆路二段,2,六張犁,38.330000
+https://urhouse.s3.amazonaws.com/attachments/images/old/7623/1.jpg,古亭名人豪邸,85000,台北市,中正區,和平西路一段,3,古亭,75.000000
+https://urhouse.s3.amazonaws.com/images/rentals/83348779460c0e343cf5903bde2f4611.jpg?31363531323137323932,台電大樓/古亭.屋齡新.質感社區,90000,台北市,大安區,羅斯福路三段,3,古亭,43.700000
+https://urhouse.s3.amazonaws.com/images/rentals/0bdf2c1f053650715e1f0c725d754b96.jpg?31363533393737353531,MRT東門   仁愛路雅仕名宅,88000,台北市,中正區,仁愛路二段,2,東門,66.900000
+https://urhouse.s3.amazonaws.com/images/rentals/d54a439ba19be7fe2b18622f6e53587e.jpg?31363532363938363132,精華地段鬧中取靜2房,90000,台北市,中正區,徐州路,2,善導寺,31.770000
+https://urhouse.s3.amazonaws.com/images/rentals/2f891485332423c8715842537cf742a0.jpg?31363437353935393031,MRT 善導寺 •3B/R SE,90000,台北市,中山區,長安東路一段,3,善導寺,51.890000
+https://urhouse.s3.amazonaws.com/attachments/images/old/10286/1.jpg,MRT明德  簡約雅宅,90000,台北市,北投區,榮華三路,3,明德,59.110000
+https://urhouse.s3.amazonaws.com/attachments/images/old/15395/1.jpg,中山北路七段   全新大樓2+1,90000,台北市,士林區,中山北路七段,3,石牌（榮總）,67.180000
+https://urhouse.s3.amazonaws.com/attachments/images/old/14534/1.jpg,MRT南港軟體園區   河濱透天,90000,台北市,南港區,重陽路,5,南港軟體園區,50.520000
+https://urhouse.s3.amazonaws.com/attachments/images/old/14377/1.jpg,線上看**MRT芝山 芝玉路景觀,92000,台北市,士林區,芝玉路一段,3,芝山,48.540000
+https://urhouse.s3.amazonaws.com/images/rentals/4312d4430cb91cd3b1ec1f5553649a27.jpg?31363436303138333534,MRT中山。新穎裝潢。優質社區。,90000,台北市,大同區,南京西路,3,中山,48.550000
+https://urhouse.s3.amazonaws.com/images/rentals/56e7e29610248ec3c12ceacaa97bb699.jpg?31363537313838383233,MRT明德站/天母商圈/大露臺,93000,台北市,士林區,磺溪街,4,明德,45.620000
+https://urhouse.s3.amazonaws.com/attachments/images/old/6635/1.jpg,仁愛圓環.大器裝潢.典雅4房,90000,台北市,大安區,安和路一段,4,信義安和,58.170000
+https://urhouse.s3.amazonaws.com/images/rentals/5e4df576d1ed58e5990f70848d933758.jpg?31363532373731303132,MRT松山.簡約明亮.寬敞可寵,95000,台北市,信義區,松隆路,4,松山,67.400000
+https://urhouse.s3.amazonaws.com/attachments/images/old/14098/1.jpg,大直知名豪邸. 5+1房/可線上,100000,台北市,中山區,堤頂大道二段,5,內湖,97.800000
+https://urhouse.s3.amazonaws.com/attachments/images/old/6463/1.jpg,芝山 MRT TES樓中樓,100000,台北市,士林區,德行東路,4,芝山,67.100000
+https://urhouse.s3.amazonaws.com/images/rentals/5d4e2809bba49effaa7e5ca4202d043e.jpg?31363438343439373431,MRT中山。新穎裝潢。優質社區,100000,台北市,中山區,中山北路二段,2,中山,49.180000
+https://urhouse.s3.amazonaws.com/images/rentals/03f49b05efdd5edf3b57ed84b1cfb226.jpg?31363534363032393137,MRT明德  雅緻温馨大宅,100000,台北市,北投區,榮華三路,4,明德,72.230000
+https://urhouse.s3.amazonaws.com/attachments/images/old/4145/1.jpg,日商限定*忠泰建設*優質物業,100000,台北市,中山區,林森北路,3,中山,63.000000
+https://urhouse.s3.amazonaws.com/images/rentals/669682950cf309c75581fb49f3e2cef2.jpg?31363535373230363930,MRT忠孝新生/近公園/含管理費,100000,台北市,中正區,仁愛路二段,2,忠孝新生（台北科大）,30.340000
+https://urhouse.s3.amazonaws.com/attachments/images/old/3217/1.jpg,MRT南京復興. 面林蔭大道. ,100000,台北市,松山區,敦化北路,1,南京復興,49.270000
+https://urhouse.s3.amazonaws.com/images/rentals/dc6a6489640ca02b0d42dabeb8e46bb7.jpg?31363535393735363536,大直/獨棟可寵/3+1房平車,100000,台北市,中山區,堤頂大道二段,3,西湖（德明科大）,70.600000
+https://urhouse.s3.amazonaws.com/attachments/images/old/1271/1.jpg,內湖站.綠蔭景觀宅精美裝潢2房.,100000,台北市,內湖區,內湖路三段,2,內湖,76.340000
+https://urhouse.s3.amazonaws.com/images/rentals/9b20ac4d9a8059cae3c7c4733bbc40a3.jpg?31363533343537393330,毛胚格局/高樓景觀/24小時管理,100000,台北市,內湖區,新明路,1,松山,85.260000
+https://urhouse.s3.amazonaws.com/images/rentals/a0f1720de42868b5b11f7734d30567a8.jpg?31363436363336383138,美日僑*一層一戶*靜謐社區,100000,台北市,士林區,中山北路七段,3,芝山,67.480000
+https://urhouse.s3.amazonaws.com/images/rentals/1af2f80dc87577a2c309b3ee992a07c5.jpg?31363533343538323935,毛胚格局/可連同隔壁戶打通/高樓,100000,台北市,內湖區,新明路,1,松山,92.440000
