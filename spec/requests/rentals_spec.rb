@@ -6,6 +6,31 @@ RSpec.describe "Rentals", type: :request do
     let!(:user) { FactoryBot.create(:user, :with_admin) }
     let!(:auth_token) { FactoryBot.create(:doorkeeper_access_token, application: application, resource_owner_id: user.id).token }
 
+    describe 'POST /api/like' do
+      context 'like a rental property' do
+        let!(:property) { FactoryBot.create(:property, :taipei_city) }
+
+        context 'when property is found' do
+          it 'property is saved to the user' do
+            expect(user.properties.count).to eq(0)
+            post "/api/rentals/#{property.id}/like", headers: with_user_auth_headers(auth_token)
+            expect(response.parsed_body).to include_json(
+              id: property.id
+            )
+            expect(user.properties.count).to eq(1)
+            expect(user.properties.first.id).to eq(property.id)
+          end
+        end
+
+        context 'when property is not found' do
+          it 'respond with 404 not found' do
+            post "/api/rentals/-1/like", headers: with_user_auth_headers(auth_token)
+            expect(response).to have_http_status(:not_found)
+          end
+        end
+      end
+    end
+
     describe 'DELETE /api/rentals' do
       context 'delete a rental property' do
         let!(:property) { FactoryBot.create(:property, :taipei_city) }

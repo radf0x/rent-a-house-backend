@@ -9,6 +9,7 @@ namespace :api do
   post 'rentals', to: 'rentals#create'
   patch 'rentals/:id', to: 'rentals#update'
   delete 'rentals/:id', to: 'rentals#delete'
+  post 'rentals/:id/like', to: 'rentals#like'
 end
 
 scope :api do

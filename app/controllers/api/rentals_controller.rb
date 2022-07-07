@@ -6,6 +6,13 @@ class Api::RentalsController < ApiController
   before_action :admin_only, only: %i[create update delete]
   rescue_from ActiveRecord::RecordNotFound, with: :render_record_not_found_error
 
+  def like
+    property = Property.find_by!(id: params[:id])
+    current_user.properties << property
+
+    render json: { id: property.id }, status: 200
+  end
+
   def index
     collections = Property.by_city(filter_params[:city] || '')
       .by_districts(filter_params[:districts] || [])
