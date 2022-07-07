@@ -1,8 +1,6 @@
 # frozen_string_literal: true
 
 class Property < ApplicationRecord
-  paginates_per 6
-
   has_many :likes, dependent: :destroy
   has_many :users, through: :likes
 
@@ -11,4 +9,5 @@ class Property < ApplicationRecord
   scope :by_rooms, ->(rooms) { where('rooms <= ?', rooms) unless rooms == 0 }
   scope :by_rent, ->(min, max) { where('price between ? and ?', min.to_i, max.to_i) unless (min + max).zero? }
   scope :by_mrt_line, ->(mrt_line) { where(mrt_line: mrt_line) unless mrt_line.blank? }
+  scope :sort_price_asc, -> { order(price: :asc) }
 end
