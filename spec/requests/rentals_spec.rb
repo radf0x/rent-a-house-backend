@@ -233,13 +233,24 @@ RSpec.describe "Rentals", type: :request do
     end
   
     describe "GET /api/rentals" do
-      after do
-        expect(response).to have_http_status(:ok)
-        expect(response.parsed_body['pagination']).to include_json(
+      def assert_pagination(data)
+        expect(data).to include_json(
           current: /\d/,
           next: /\d/,
           total: /\d/
         )
+      end
+
+      def assert_price_sort_in_ascending(properties)
+        properties.each_cons(2) do |prev_property, next_property|
+          expect(prev_property['price']).to be <= next_property['price']
+        end
+      end
+
+      after do
+        expect(response).to have_http_status(:ok)
+        assert_pagination(response.parsed_body['pagination'])
+        assert_price_sort_in_ascending(response.parsed_body['properties'])
       end
   
       context 'with a single filter' do
