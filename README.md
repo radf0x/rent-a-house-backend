@@ -39,4 +39,12 @@
 └── ...
 ```
 
-## Design
+## Miscellaneous
+
+- Sample accounts:
+  - [Admin]
+    - email: `adam@eden.com`
+    - password: `password`
+  - [User]
+    - email: `eve@eden.com`
+    - password: `password`
