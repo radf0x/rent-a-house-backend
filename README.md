@@ -19,3 +19,24 @@
   3. `Doorkeeper::Application.first.secret`
 - Use `uid` value as `client_id` in the request body
 - Use `secret` value as `client_secret` in the request body
+
+## Folder Structure
+```
+.
+├── app                     # App
+│   ├── controllers         # Web request implementations 
+│   │   ├── api             # API endpoints are categorized
+│   │   └── ...
+│   └── ...
+├── config                  # Rails configuration
+├── db                    
+│   ├── migrate             # Migration files
+│   ├── structure.sql       # Database structure
+│   └── ...
+├── lib                    
+│   ├── ...
+│   └── task                # One-off rake tasks
+└── ...
+```
+
+## Design

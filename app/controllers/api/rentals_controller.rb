@@ -12,14 +12,20 @@ class Api::RentalsController < ApiController
 
   def unlike
     property = Property.find_by!(id: params[:id])
-    current_user.properties.delete(property)
+
+    if current_user.properties.include?(property)
+      current_user.properties.delete(property)
+    end
 
     head :no_content
   end
 
   def like
     property = Property.find_by!(id: params[:id])
-    current_user.properties << property
+
+    unless current_user.properties.include?(property)
+      current_user.properties << property
+    end
 
     render json: { status: 'ok' }, status: 200
   end
